@@ -240,7 +240,7 @@ Kompetencje członków zarządu krajowego nie wymienionych w art. 35-38 określa
 4. Członkowie zarządu krajowego powołani w drodze wyborów uzupełniających, wniosku o odwołanie lub wniosku o dyscyplinarne zawieszenie działają do dnia zakończenia kadencji, na którą zostały wybrani członkowie, których zastąpili.
 
 ### Art. 41. Prowadzenie rejestrów
-1. Rejestr członków oraz rejestr uchwał i protokołów, o których mowa w art. 30. ust. 7. są jawne.
+1. Rejestr członków oraz rejestr uchwał i protokołów, o których mowa w art. 30. ust. 7. są jawne. Członek nie może powoływać się na nieznajomość rejestrów.
 2. Rejestry prowadzone są w formie elektronicznej oraz pisemnej. Treść rejestrów elektronicznych musi być zgodna z treścią rejestrów pisemnych.
 3. Zarząd krajowy wpisuje protokoły, uchwały oraz postanowienia wszystkich władz DB, w terminie nie dłuższym niż 14 dni od dnia podjęcia uchwały albo wydania postanowienia.
 4. Zarząd krajowy wpisuje członka do rejestru członków oraz wykreśla członka z rejestru członków, w terminie nie dłuższym niż 14 dni od dnia podjęcia uchwały o przyjęciu członka albo o wykluczeniu członka.
