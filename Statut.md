@@ -100,7 +100,7 @@ Członkostwo w DB wygasa na skutek zarówno:
 7. Przywrócenie członkostwa nie powoduje przywrócenia funkcji pełnionych w chwili zawieszenia członkostwa.
 
 ### Art. 16. Wykreślenie członka na skutek nieopłacania składek członkowskich
-1. Jeżeli członek DB nie opłaca składek członkowskich przez okres dłuższy niż 3 miesiące, zarząd krajowy wysyła wezwanie do zapłaty.
+1. Jeżeli członek DB nie opłaca składek członkowskich przez okres dłuższy niż 3 miesiące, zarząd krajowy wysyła wezwanie do zapłaty. Wezwanie do zapłaty może zostać wysłane drogą elektroniczną.
 2. Jeżeli członek DB nie ureguluje zaległych płatności w terminie 14 dni od dnia doręczenia wezwania do zapłaty, Zarząd krajowy wykreśla członka z rejestru członków, równocześnie zawiadamiając członka o tej decyzji.
 3. Od decyzji, o której mowa w ust. 2, osoba wykreślona z rejestru członków może złożyć odwołanie do walnego zgromadzenia członków, w terminie nie dłuższym niż 30 dni od dnia doręczenia decyzji.
 4. Odwołanie, o którym mowa w ust. 3, osoba wykreślona z rejestru członków może złożyć po uprzednim uregulowaniu zaległych płatności.
