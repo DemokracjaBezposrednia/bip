@@ -14,10 +14,9 @@ Demokracja Bezpośrednia dzięki swemu ustrojowi wewnętrznemu pozwala na to, by
 3. Siedzibą DB jest miasto stołeczne Warszawa.
 
 ### Art. 3. Tryb podejmowania decyzji
-1. Kolegialne organy DB wyrażają swoją wolę w formie uchwał. Inne organy DB wyrażają swoją wolę w formie postanowień.
-2. Uchwały podejmowane są zwykłą większością głosów, chyba że przepisy szczegółowe stanowią inaczej.
-3. W głosowaniu uchwał zarządu krajowego, w przypadku równowagi głosów, głos przewodniczącego ma znaczenie rozstrzygające.
-4. Dopuszczalne jest podejmowanie uchwał w drodze elektronicznego głosowania. Procedurę przeprowadzania elektronicznego głosowania określa walne zgromadzenie członków w drodze uchwały (regulamin elektronicznego głosowania).
+1. Kolegialne organy DB wyrażają swoją wolę w formie uchwał. Inne organy DB wyrażają swoją wolę w formie postanowień. Członkowie DB wyrażają swoją wolę w formie deklaracji.
+2. Zasady podejmowania uchwał, wydawania postanowień i publikowania deklaracji precyzuje uchwała walnego zgromadzenia ([[regulamin oświadczeń]]).
+3. Prawo do głosowania mają członkowie, którzy nie zalegają z opłatami składek.
 
 ### Art. 4. Definicje legalne
 1. Decyzja jest to rozstrzygnięcie będące wynikiem dokonania wyboru, wyrażone w drodze uchwały albo postanowienia, o których mowa w art. 3. ust. 1.
@@ -53,29 +52,27 @@ Członek DB ma prawo:
 4) uzyskiwania informacji o działalności partii oraz działalności jej przedstawicieli w organach władzy publicznej,  
 5) uczestniczenia w posiedzeniach organów DB,  
 6) kandydowania na każdą funkcję w DB,  
-7) ubiegania się z rekomendacji DB o mandat w organach władzy publicznej. Prawo to nabywa po sześciu miesiącach od decyzji o przyjęciu do DB lub od zakończenia procedury odwoławczej, chyba że walne zgromadzenie członków zadecyduje inaczej, zgodnie z art. 21. pkt. 10,  
-8) korzystania z poparcia DB w czasie działalności, zwłaszcza w okresie kampanii wyborczej,  
-9) korzystania ze wsparcia DB, w przypadku doznania krzywdy z powodu działalności politycznej, a także  
-10) używania oznak organizacyjnych.
+7) korzystania z poparcia DB w czasie działalności, zwłaszcza w okresie kampanii wyborczej,  
+8) korzystania ze wsparcia DB, w przypadku doznania krzywdy z powodu działalności politycznej, a także  
+9) używania oznak organizacyjnych.
 
 ### Art. 9. Obowiązki członków
 Członek DB ma obowiązek:  
 1) dbania o dobre imię partii,  
-2) wypełniania swoich obywatelskich obowiązków,  
-3) pozyskiwania sympatyków oraz zwolenników dla idei demokracji bezpośredniej,  
-4) uczestniczenia w działalności DB,  
-5) uczestniczenia w działalności organów DB, których jest przedstawicielem,  
-6) przestrzegania koleżeńskich relacji z pozostałymi członkami DB,  
-7) opłacania raz w miesiącu składki członkowskiej,  
-8) wykonywania uchwał walnego zgromadzenia członków oraz innych władz DB, a także  
-9) przestrzegania postanowień statutu DB.
+2) pozyskiwania sympatyków oraz zwolenników dla idei demokracji bezpośredniej,  
+3) uczestniczenia w działalności DB,  
+4) uczestniczenia w działalności organów DB, których jest przedstawicielem,  
+5) przestrzegania koleżeńskich relacji z pozostałymi członkami DB,  
+6) opłacania raz w miesiącu składki członkowskiej,  
+7) wykonywania uchwał walnego zgromadzenia członków oraz innych władz DB, a także  
+8) przestrzegania postanowień statutu DB.
 
 ### Art. 10. Przesłanki wygaśnięcia członkostwa z mocy statutu
 Członkostwo w DB wygasa z mocy statutu na skutek stwierdzenia niespełnienia przez członka wymogów, o których mowa w art. 7.
 
 ### Art. 11. Przesłanki wygaśnięcia członkostwa
 Członkostwo w DB wygasa na skutek zarówno:  
-1) złożenia przez członka pisemnej rezygnacji na ręce przewodniczącego zarządu krajowego,  
+1) złożenia przez członka rezygnacji w drodze deklaracji,  
 2) śmierci członka,  
 3) wykreślenia z rejestru członków,  
 4) zawieszenia członkostwa trwającego dłużej niż 6 miesięcy,  
@@ -83,39 +80,24 @@ Członkostwo w DB wygasa na skutek zarówno:
 
 ### Art. 12. Przyjmowanie członków
 1. O przyjęciu kandydata do DB decyduje zarząd krajowy lub też członkowie upoważnieni w uchwale zarządu krajowego, w drodze uchwały lub postanowienia, na podstawie złożonej przez kandydata deklaracji członkowskiej.
-2. Kandydat może złożyć deklarację, o której mowa w ust. 1, na ręce władz wybranego zespołu terenowego. Jednoznaczne jest to wtedy ze złożeniem wniosku o przyjęcie do zespołu terenowego. W tej sytuacji władze zespołu terenowego mogą dokonać odpisu z deklaracji, a następnie deklarację przesyłają do zarządu krajowego.
-3. Od uchwały w sprawie nieprzyjęcia kandydata do DB, kandydat może złożyć odwołanie do walnego zgromadzenia członków, w terminie nie dłuższym niż 30 dni od dnia doręczenia uchwały.
-4. Uchwała w sprawie nieprzyjęcia kandydata może zostać uchylona, przez uwzględnienie odwołania przez walne zgromadzenie członków, w drodze tajnego głosowania.
-
-### Art. 13. Wzór deklaracji członkowskiej
-1. Walne zgromadzenie członków określa w drodze uchwały wzór deklaracji członkowskiej.
-2. Walne zgromadzenie członków zatwierdza program wyborczy DB.
+2. Od uchwały w sprawie nieprzyjęcia kandydata do DB, kandydat może złożyć odwołanie do walnego zgromadzenia członków, w terminie nie dłuższym niż 30 dni od dnia doręczenia uchwały.
+3. Uchwała w sprawie nieprzyjęcia kandydata może zostać uchylona, przez uwzględnienie odwołania przez walne zgromadzenie członków, w drodze tajnego głosowania.
 
 ### Art. 14. Zawieszenie członkostwa
-1. Członek może zawiesić swoje członkostwo.
-2. Wniosek o zawieszenie członkostwa dokonuje się w formie pisemnej. Wniosek przekazuje się przewodniczącemu zarządu krajowego.
-3. Na wniosek zainteresowanego członkostwo zostaje zawieszone w drodze postanowienia przewodniczącego zarządu krajowego.
-4. Zawieszenie członkostwa powoduje wygaśnięcie pełnionych w DB funkcji oraz utratę biernego i czynnego prawa wyborczego.
-5. Członek zawieszony nie opłaca składek.
-6. W przypadku gdy zawieszenie członkostwa trwa dłużej niż 6 miesięcy zarząd krajowy wykreśla członka z rejestru członków.
-7. Wniosek o przywrócenie członkostwa przekazuje się przewodniczącemu zarządu krajowego.
-8. Na wniosek zainteresowanego członkostwo zostaje przywrócone w drodze postanowienia przewodniczącego zarządu krajowego.
+1. Członek może zawiesić swoje członkostwo w drodze deklaracji.
+2. Zawieszenie członkostwa powoduje wygaśnięcie pełnionych w DB funkcji oraz utratę biernego i czynnego prawa wyborczego.
+3. Członek zawieszony nie opłaca składek.
+4. W przypadku gdy zawieszenie członkostwa trwa dłużej niż 6 miesięcy zarząd krajowy wykreśla członka z rejestru członków.
+5. Członek, który zawiesił członkostwo może je przywrócić w drodze deklaracji
 
 ### Art. 15. Dyscyplinarne zawieszenie członkostwa
 1. Walne zgromadzenie członków może dyscyplinarnie zawiesić członka DB w drodze uchwały.
-2. Z wnioskiem o dyscyplinarne zawieszenie członka wystąpić mogą zarówno:  
-a) zarząd krajowy,  
-b) zespół zadaniowy,  
-c) 30 członków posiadających czynne prawo wyborcze.
-3. Wniosek o dyscyplinarne zawieszenie dokonuje się w formie pisemnej. Wniosek przekazuje się przewodniczącemu zarządu krajowego.
-4. Do momentu przeprowadzenia głosowania nad tą uchwałą, zarząd krajowy może tymczasowo zawiesić członka dyscyplinarnie w drodze uchwały. Przepisy art. 15. ust. 6. Stosuje się odpowiednio. Uchwała zarządu krajowego traci ważność w momencie zakończenia głosowania nad uchwałą walnego zgromadzenia.
-5. Zawieszenie dyscyplinarne następuje w drodze tajnego głosowania.
-6. Zawieszenie dyscyplinarne powoduje wygaśnięcie pełnionych w DB funkcji oraz utratę biernego i czynnego prawa wyborczego. Przepisów art. 14 ust. 6. nie stosuje się.
-7. Walne zgromadzenie członków może przywrócić członkostwo osoby zawieszonej w drodze uchwały.
-8. Wniosek o przywrócenie członkostwa, w przypadku dyscyplinarnego zawieszenia, dokonuje się w formie pisemnej. Wniosek przekazuje się przewodniczącemu zarządu krajowego.
-9. Przewodniczący zarządu krajowego poddaje wniosek, o którym mowa w ust. 8, pod głosowanie członków na najbliższym walnym zgromadzeniu członków.
-10. Przywrócenie członkostwa następuje w drodze tajnego głosowania.
-11. Przywrócenie członkostwa nie powoduje przywrócenia funkcji pełnionych w chwili zawieszenia członkostwa.
+2. Do momentu przeprowadzenia głosowania nad tą uchwałą, zarząd krajowy może tymczasowo zawiesić członka dyscyplinarnie w drodze uchwały. Przepisy art. 14. ust. 4. Stosuje się odpowiednio. Uchwała zarządu krajowego traci ważność w momencie zakończenia głosowania nad uchwałą walnego zgromadzenia.
+3. Zawieszenie dyscyplinarne następuje w drodze tajnego głosowania.
+4. Zawieszenie dyscyplinarne powoduje wygaśnięcie pełnionych w DB funkcji oraz utratę biernego i czynnego prawa wyborczego. Przepisów art. 13 ust. 6. nie stosuje się.
+5. Walne zgromadzenie członków może przywrócić członkostwo osoby zawieszonej w drodze uchwały.
+6. Przywrócenie członkostwa następuje w drodze tajnego głosowania.
+7. Przywrócenie członkostwa nie powoduje przywrócenia funkcji pełnionych w chwili zawieszenia członkostwa.
 
 ### Art. 16. Wykreślenie członka na skutek nieopłacania składek członkowskich
 1. Jeżeli członek DB nie opłaca składek członkowskich przez okres dłuższy niż 3 miesiące, zarząd krajowy wysyła wezwanie do zapłaty.
@@ -125,15 +107,10 @@ c) 30 członków posiadających czynne prawo wyborcze.
 5. Decyzja w sprawach, o których mowa w ust. 2 oraz ust. 3, może zostać uchylona, przez uwzględnienie odwołania w drodze tajnego głosowania na walnym zgromadzeniu członków.
 
 ### Art. 17. Wykluczenie członka
-1. Walne zgromadzenie członków może wykluczyć członka DB za uzasadnioną przyczyną.
-2. Z wnioskiem o wykluczenie członka wystąpić mogą zarówno:  
-a) zarząd krajowy, a także  
-b) 50 członków posiadających czynne prawo wyborcze.
-3. Wniosek o wykluczenie dokonuje się w formie pisemnej. Wniosek przekazuje się przewodniczącemu zarządu krajowego.
-4. Przewodniczący zarządu krajowego poddaje wniosek o wykluczenie pod głosowanie członków na najbliższym walnym zgromadzeniu członków. Do tego czasu zarząd krajowy może zawiesić członka dyscyplinarnie w drodze uchwały. Przepisy art. 15. ust. 6. stosuje się odpowiednio. Uchwała zarządu krajowego musi zostać zatwierdzona na najbliższym walnym zgromadzeniu.
-5. Wykluczenie następuje w drodze tajnego głosowania.
-6. Zarząd krajowy wykreśla członka z rejestru członków w terminie nie krótszym niż 14 dni od dnia podjęcia decyzji o wykluczeniu jedynie wtedy, gdy walne zgromadzenie członków zadecyduje tak w głosowaniu, o którym mowa w ust. 5.
-7. Osoba wykluczona może ponownie ubiegać się o przyjęcie do DB po upływie roku od dnia podjęcia decyzji o jej wykluczeniu.
+1. Walne zgromadzenie członków może wykluczyć członka DB za uzasadnioną przyczyną w drodze uchwały podjętej przez 4/5 głosujących.
+2. Wykluczenie następuje w drodze tajnego głosowania.
+3. Zarząd krajowy wykreśla członka z rejestru członków w terminie nie krótszym niż 14 dni od dnia podjęcia decyzji o wykluczeniu jedynie wtedy, gdy walne zgromadzenie członków zadecyduje tak w głosowaniu, o którym mowa w ust. 5.
+4. Osoba wykluczona może ponownie ubiegać się o przyjęcie do DB po upływie roku od dnia podjęcia decyzji o jej wykluczeniu.
 
 ### Art. 18. Odpowiedzialność polityczna
 1. Członek DB pełniący funkcje we władzach publicznych, odpowiada politycznie za swoją działalność, przed organami DB.
@@ -146,7 +123,8 @@ b) 50 członków posiadających czynne prawo wyborcze.
 
 ## Rozdział 5. Walne Zgromadzenie Członków
 ### Art. 20. Walne zgromadzenie członków
-Walne zgromadzenie członków jest najwyższą władzą DB.
+1. Walne zgromadzenie członków jest najwyższą władzą DB.
+2. Walne zgromadzenie członków składa się ze wszystkich członków DB.
 
 ### Art. 21. Prawa walnego zgromadzenia
 Walne zgromadzenie członków ma prawo:  
@@ -165,58 +143,23 @@ Walne zgromadzenie członków ma prawo:
 13) podejmowania decyzji niezastrzeżonych dla innych organów DB w przepisach szczegółowych,  
 14) uchwalenie okresowych planów budżetowych dla partii, mających w określonych w nim ramach wiążący charakter dla zarządu.
 
-### Art. 22. Tryb podejmowania decyzji
-1. Walne zgromadzenie członków wyraża swoją wolę w drodze uchwał.
-2. Z projektem uchwały wystąpić mogą zarówno:  
-a) zarząd krajowy,  
-b) zespół zadaniowy,  
-c) 50 członków posiadających czynne prawo wyborcze.
-3. Projekt uchwały dokonuje się w formie pisemnej. Projekt uchwały przekazuje się przewodniczącemu zarządu krajowego.
-4. Przewodniczący zarządu krajowego poddaje projekt uchwały pod głosowanie członków na najbliższym walnym zgromadzeniu członków.
-
-### Art. 23. Tryb zwoływania walnego zgromadzenia członków
-1. Walne zgromadzenie członków tworzą członkowie DB.
-2. Członek może brać udział w walnym zgromadzeniu tylko osobiście.
-3. W walnym zgromadzeniu mają prawo uczestniczyć z głosem doradczym zaproszeni goście, a także obserwatorzy.
-4. Zaprosić gościa, o którym mówi ust. 3, ma prawo każdy członek DB po zgłoszeniu tego faktu zarządowi krajowemu nie później niż na 14 dni przed dniem walnego zgromadzenia. Zgłoszenie nie wymaga zatwierdzenia.
-5. Walne zgromadzenie może być zwyczajne lub nadzwyczajne.
-6. Zwyczajne walne zgromadzenie zwoływane jest przynajmniej raz na pół roku z inicjatywy zarządu krajowego.
-7. Nadzwyczajne walne zgromadzenie może być zwołane w każdym czasie z inicjatywy zarządu.
-8. Z wnioskiem o zwołanie nadzwyczajnego walnego zgromadzenia może wystąpić także 50 członków. Wniosek powinien być złożony na piśmie i zawierać listę spraw, które mają być poddane pod obrady.
-9. Wniosek, o którym mowa w ust. 8, jest wiążący dla zarządu krajowego. Zarząd krajowy zwołuje walne zgromadzenie w terminie nie dłuższym niż 30 dni od doręczenia wniosku.
-10. Zwołanie walnego zgromadzenia członków następuje przez zawiadomienie członków co najmniej 14 dni przed dniem walnego zgromadzenia z podaniem:  
-a) daty, godziny oraz miejsca walnego zgromadzenia, a także  
-b) porządku obrad.
-11. Z wnioskiem o zamieszczenie w porządku obrad dodatkowych spraw mogą wystąpić nie później niż na 7 dni przed dniem walnego zgromadzenia:  
-a) zespół zadaniowy, a także  
-b) 30 członków.
-12. Wniosek, o którym mowa w ust. 11, jest wiążący dla zarządu krajowego.
-13. Walne zgromadzenie wybiera przewodniczącego obrad oraz sekretarza.
-14. Z przebiegu walnego zgromadzenia sporządza się protokół, który podpisuje przewodniczący walnego zgromadzenia oraz sekretarz. Protokoły gromadzone są przez zarząd krajowy.
-
 ### Art. 24. Tryb uchwalania statutu oraz wprowadzania w nim zmian
-Walne zgromadzenie członków uchwala statut albo dokonuje zmian w statucie w drodze uchwały, głosowanej przy udziale co najmniej połowy uprawnionych do głosowania i jednocześnie kwalifikowaną większością 2/3 głosów. Uprawnienie do głosowania w sprawie zmian w statucie członek nabywa po 90 dniach od dnia decyzji o przyjęciu do DB lub od zakończenia procedury odwoławczej. Jeżeli w walnym zgromadzeniu bierze udział mniej niż połowa uprawnionych do głosowania zarząd krajowy wyznacza następny termin walnego zgromadzenia, który pozbawiony jest wymogu quorum.
+Walne zgromadzenie członków uchwala statut albo dokonuje zmian w statucie w drodze uchwały, głosowanej przy udziale co najmniej połowy uprawnionych do głosowania i jednocześnie kwalifikowaną większością 2/3 głosów. Uprawnienie do głosowania w sprawie zmian w statucie członek nabywa po 90 dniach od dnia decyzji o przyjęciu do DB lub od zakończenia procedury odwoławczej. Jeżeli w głosowaniu bierze udział mniej niż połowa uprawnionych do głosowania zarząd krajowy wyznacza następny termin głosowania, który pozbawiony jest wymogu quorum.
 
 ### Art. 25. Wybory zarządu partii
-1. Walne zgromadzenie członków powołuje w czasie wyborów przewodniczącego zarządu krajowego, dwóch wiceprzewodniczących zarządu krajowego, skarbnika zarządu krajowego, sekretarza zarządu krajowego, a także dwóch członków zarządu krajowego.
-2. Wybory organów, o których mowa w ust. 1. zarządza przewodniczący zarządu krajowego w drodze postanowienia zwołującego walne zgromadzenie członków, nie wcześniej niż na 45 dni oraz nie później niż na 30 dni przed upływem 2 lat od rozpoczęcia kadencji zarządu krajowego.
+1. Zjazd wyborczy walnego zgromadzenia powołuje w czasie wyborów przewodniczącego zarządu krajowego, dwóch wiceprzewodniczących zarządu krajowego, skarbnika zarządu krajowego, sekretarza zarządu krajowego, a także dwóch członków zarządu krajowego.
+2. Wybory organów, o których mowa w ust. 1. zarządza przewodniczący zarządu krajowego w drodze postanowienia zwołującego zjazd wyborczy walnego zgromadzenia,nie wcześniej niż na 45 dni oraz nie później niż na 30 dni przed upływem 2 lat od rozpoczęcia kadencji zarządu krajowego.
 3. Czynne prawo wyborcze członek nabywa po 90 dniach od dnia decyzji o przyjęciu do DB lub od zakończenia procedury odwoławczej.
 4. Wybory organów, o których mowa w ust. 1, przeprowadzane są rozdzielnie.
-5. Zgłoszenie kandydatury członka do funkcji, o których mowa w ust. 1, może złożyć 30 członków posiadających czynne prawo wyborcze. Zgłoszenie może być złożone nie później niż na 14 dni przed walnym zgromadzeniem członków, o którym mowa w ust. 2. Jest dopuszczalne złożenie wniosku przewodniczącemu walnego zgromadzenia w trakcie trwania zgromadzenia.
-6. Zgłoszenie kandydatury dokonuje się w formie pisemnej. Zgłoszenie oraz pisemną zgodę kandydata, przekazuje się przewodniczącemu zarządu krajowego.
-7. Przewodniczący zarządu krajowego publikuje listę kandydatów na 14 dni przed walnym zgromadzeniem członków, o którym mowa w ust. 2.
-8. Powołanie następuje w drodze tajnego głosowania. Głosy oblicza komisja skrutacyjna wyłoniona w drodze blokowego głosowania walnego zgromadzenia członków. Liczebność członków komisji skrutacyjnej musi być równa liczbie kandydatów, ale nie mniej niż 3 osoby.
-9. O wynikach wyborów przewodniczący walnego zgromadzenia zawiadamia wszystkich członków niezwłocznie.
+5. Zgłoszenie kandydatury członka do funkcji, o których mowa w ust. 1, może złożyć 15 członków posiadających czynne prawo wyborcze. Zgłoszenie może być złożone nie później niż na 14 dni przed zjazdem wyborczym walnego zgromadzenia, o którym mowa w ust. 2. Jest dopuszczalne złożenie wniosku przewodniczącemu zjazdu wyborczego walnego zgromadzenia w trakcie trwania zgromadzenia.
+6. Zgłoszenie kandydatury dokonuje się w drodze deklaracji.
+7. Sekretarz zarządu krajowego publikuje listę kandydatów na 14 dni przed zjazdem wyborczym walnego zgromadzenia, o którym mowa w ust. 2.
+8. Powołanie następuje w drodze tajnego głosowania. Głosy oblicza komisja skrutacyjna wyłoniona w drodze blokowego głosowania zjazdu wyborczego walnego zgromadzenia. Liczebność członków komisji skrutacyjnej musi być równa liczbie kandydatów, ale nie mniej niż 3 osoby.
+9. O wynikach wyborów przewodniczący zjazdu wyborczego walnego zgromadzenia zawiadamia wszystkich członków niezwłocznie.
 
 ### Art. 26. Tryb odwołania członka zarządu – konstruktywne odwołanie
-1. Walne zgromadzenie członków może odwołać przewodniczącego zarządu krajowego, wiceprzewodniczących zarządu krajowego, skarbnika zarządu krajowego, sekretarza zarządu krajowego, a także członków zarządu krajowego z pełnionych funkcji, za uzasadnioną przyczyną.
-2. Z wnioskiem o odwołanie członka z pełnionej funkcji, o której mowa w ust. 1, wystąpić może 50 członków posiadających czynne prawo wyborcze.
-3. Wniosek o odwołanie członka z pełnionej funkcji dokonuje się w formie pisemnej. Wniosek musi wskazywać imiennie kandydata na funkcję pełnioną przez odwoływanego członka. Wniosek oraz pisemną zgodę kandydata, przekazuje się przewodniczącemu walnego zgromadzenia członków w trakcie trwania zgromadzenia.
-4. Przewodniczący walnego zgromadzenia poddaje wniosek o odwołanie członka z pełnionej funkcji pod głosowanie walnego zgromadzenia.
-5. Odwołanie członka z pełnionej funkcji następuje w drodze tajnego głosowania.
-6. W chwili odwołania członka z pełnionej funkcji, powołany do pełnienia tej funkcji jest kandydat wskazany we wniosku, o którym mowa w ust. 3.
-7. O decyzji o odwołaniu członka z pełnionej funkcji oraz o decyzji o powołaniu nowego członka do pełnienia tej funkcji, przewodniczący walnego zgromadzenia zawiadamia wszystkich członków, w terminie nie dłuższym niż 7 dni od dnia podjęcia decyzji.
-8. Powtórny wniosek, dotyczący odwołania członka z pełnienia tej samej funkcji, może być złożony w terminie nie krótszym niż po upływie 2 miesięcy od dnia złożenia poprzedniego wniosku, chyba że złoży go 100 członków posiadających czynne prawo wyborcze.
+1. Walne zgromadzenie członków może odwołać przewodniczącego zarządu krajowego, wiceprzewodniczących zarządu krajowego, skarbnika zarządu krajowego, sekretarza zarządu krajowego, a także członków zarządu krajowego z pełnionych funkcji, za uzasadnioną przyczyną w drodze uchwały, głosowanej w głosowaniu tajnym.
+2. Projekt uchwały musi wskazywać imiennie kandydata na funkcję pełnioną przez odwoływanego członka. W momencie przyjęcia uchwały, jest on powoływany na tę funkcję.
 
 ### Art. 27. Tryb rozwiązywania lub łączenia partii
 Walne zgromadzenie członków podejmuje decyzję o rozwiązaniu DB albo o połączeniu DB z inną partią w drodze uchwały, głosowanej przy udziale co najmniej połowy uprawnionych do głosowania i jednocześnie kwalifikowaną większością 2/3 głosów.
@@ -311,62 +254,25 @@ Kompetencje członków zarządu krajowego nie wymienionych w art. 35-38 określa
 ## Rozdział 7. Zespół zadaniowy
 ### Art. 43. Zespół zadaniowy
 Zespół zadaniowy jest to podstawowa jednostka organizacyjno-wykonawcza DB.
-Zespół zadaniowy wypełnia swoje cele w drodze podejmowania uchwał przez swoich członków.
 
 ### Art. 44. Tryb ustanawiania zespołu zadaniowego
-1. Walne zgromadzenie członków oraz zarząd krajowy mogą ustanawiać zespoły zadaniowe do realizacji swoich działań.
-2. Zarząd krajowy ustanawia zespół zadaniowy w drodze uchwały. Uchwała musi określać kwestie wymienione w ust. 5.
-3. Ilość zespołów zadaniowych może być nieograniczona. Nie wolno powoływać zespołów zadaniowych o kompetencjach zespołów terenowych.
-4. Z wnioskiem o ustanowienie zespołu zadaniowego wystąpić może 30 członków posiadających czynne prawo wyborcze.
-5. Wniosek o ustanowienie zespołu zadaniowego dokonuje się w formie pisemnej. Wniosek musi wskazywać zarazem:  
-a) imiennie co najmniej pięciu członków-założycieli zespołu zadaniowego,  
-b) cele powołania zespołu zadaniowego,  
-c) kompetencje zespołu zadaniowego,  
-d) okres sprawozdawczy zespołu zadaniowego, a także  
-e) planowany termin rozwiązania zespołu zadaniowego.
-6. Wniosek oraz pisemne potwierdzenia członków-założycieli, przekazuje się przewodniczącemu zarządu krajowego.
-7. Wniosek, o którym mowa w ust. 4, podlega niewiążącej opinii merytorycznej zarządu krajowego. Opinia załączana jest do wniosku, w terminie nie dłuższym niż 7 dni od dnia doręczenia wniosku.
-8. Przewodniczący zarządu krajowego poddaje wniosek o ustanowienie zespołu zadaniowego z załączoną opinią, o której mowa w ust. 7, pod głosowanie na najbliższym walnym zgromadzeniu członków.
-9. Ustanowienie zespołu zadaniowego na wniosek, o którym mowa w ust. 8, następuje w drodze głosowania walnego zgromadzenia członków.
+1. Walne zgromadzenie członków, zarząd krajowy oraz zespoły powiatowe mogą ustanawiać zespoły zadaniowe i przekazywać im część swoich kompetencji lub zadań w drodze uchwały.
+2. Uchwała powołująca zespół zadaniowy musi zawierać:  
+a) cele powołania zespołu zadaniowego,  
+b) kompetencje zespołu zadaniowego,  
+c) okres sprawozdawczy zespołu zadaniowego,  
+d) warunki rozwiązania zespołu zadaniowego,  
+e) sposób przyjmowania i wykluczania członków,  
+f) strukturę organizacyjną zespołu zadaniowego,  
+g) sposób przydzielania funkcji opisanych przez tę strukturę,  
+h) imiennie członków-założycieli zespołu.
 
 ### Art. 45. Tryb rozwiązywania zespołu zadaniowego
-1. Walne zgromadzenie członków oraz zarząd krajowy mogą rozwiązać ustanowiony przez siebie zespół zadaniowy za uzasadnioną przyczyną.
-2. Z wnioskiem o rozwiązanie zespołu zadaniowego wystąpić może także 30 członków posiadających czynne prawo wyborcze.
-3. Wniosek o rozwiązanie zespołu zadaniowego dokonuje się w formie pisemnej. Wniosek przekazuje się przewodniczącemu zarządu krajowego.
-4. Wniosek, o którym mowa w ust. 3, podlega niewiążącej opinii merytorycznej zarządu krajowego. Opinia załączana jest do wniosku, w terminie nie dłuższym niż 7 dni od dnia doręczenia wniosku.
-5. Przewodniczący zarządu krajowego poddaje wniosek o rozwiązanie zespołu zadaniowego z załączoną opinią, o której mowa w ust. 4, pod głosowanie na najbliższym walnym zgromadzeniu członków.
-6. Rozwiązanie zespołu zadaniowego następuje w drodze tajnego głosowania.
-
-### Art. 46. Tryb powoływania, odwoływania oraz zmieniania władz zespołów zadaniowych
-1. Walne zgromadzenie członków oraz zarząd krajowy powołuje, odwołuje lub zmienia władze zespołów zadaniowych ustanowionych przez siebie, w drodze uchwały.
-2. Uprawnienie, o którym mowa w ust. 1, walne zgromadzenie członków lub zarząd krajowy mogą przekazać zespołowi zadaniowemu. Zespół zadaniowy konstytuuje się wtedy w obrębie swoich członków.
-3. Walne zgromadzenie członków oraz zarząd krajowy mogą swobodnie kształtować struktury ustanowionych przez siebie zespołów zadaniowych.
-4. Z projektem uchwały powołującej, odwołującej lub zmieniającej władze zespołu zadaniowego wystąpić może także 30 członków posiadających czynne prawo wyborcze.
-
-### Art. 47. Cele zespołów zadaniowych
-Cele oraz kompetencje zespołu zadaniowego określa uchwała walnego zgromadzenia członków lub zarządu krajowego ustanawiająca zespół zadaniowy.
-
-### Art. 48. Czas działania zespołów zadaniowych
-1. Termin rozwiązania zespołu zadaniowego określa uchwała walnego zgromadzenia członków lub zarządu krajowego ustanawiająca zespół zadaniowy.
-2. Termin, o którym mowa w ust. 1, może zostać wydłużony w drodze uchwały walnego zgromadzenia członków lub zarządu krajowego, na wniosek zespołu zadaniowego lub 30 członków posiadających czynne prawo wyborcze.
-
-### Art. 49. Przyjmowanie członków do zespołów zadaniowych
-1. O przyjęciu kandydata do zespołu zadaniowego decyduje koordynator zespołu zadaniowego w drodze postanowienia, na podstawie złożonego przez kandydata wniosku. Koordynator może zwrócić się do zarządu krajowego z zapytaniem o poprawność formalną wniosku. Wniosek może zostać złożony w formie, o której mówi art. 12 ust. 2. W okolicznościach, o których mowa jest w art. 12 ust. 2, wniosek o przyjęcie zastępuje deklaracja członkowska.
-2. Kandydat, o którym mowa w ust. 1, musi być członkiem DB w chwili przyjęcia.
-3. Od postanowienia w sprawie nieprzyjęcia kandydata do zespołu zadaniowego, kandydat może złożyć odwołanie do walnego zgromadzenia członków, w terminie nie dłuższym niż 30 dni od dnia doręczenia postanowienia.
-4. Postanowienie w sprawie nieprzyjęcia kandydata może zostać uchylone, przez uwzględnienie odwołania przez walne zgromadzenie członków w drodze tajnego głosowania.
-
-### Art. 50. Wydalenie członka z zespołu zadaniowego
-Wydalenie członka z zespołu zadaniowego następuje w drodze tajnego głosowania członków zespołu na wniosek władz zespołu lub połowy jego członków.
+1. Walne zgromadzenie członków, zarząd krajowy oraz zespoły powiatowe mogą rozwiązać ustanowiony przez siebie zespół zadaniowy w drodze uchwały.
+2. Uchwała rozwiązująca zespół zadaniowy musi zawierać uzasadnienie.
 
 ### Art. 51. Przesłanki rozwiązania zespołu z mocy statutu
-1. Zespół zadaniowy musi liczyć co najmniej 5 członków.
-2. Zespół zadaniowy może nie posiadać władz, o których mowa w art. 46, nie dłużej niż 30 dni.
-3. Zespół zadaniowy rozwiązuje się z mocy statutu na skutek stwierdzenia niespełnienia wymogu, o którym mowa w ust. 1. lub ust. 2.
-
-### Art. 52. Samorozwiązanie zespołu
-1. Zespół zadaniowy może podjąć uchwałę o samorozwiązaniu.
-2. Z wnioskiem o samorozwiązanie wystąpić mogą władze zespołu zadaniowego lub 2/3 członków zespołu zadaniowego.
+Zespół zadaniowy funkcjonuje zgodnie z uchwałą go powołującą. Jeśli tak nie jest, zostaje rozwiązany z mocy statutu.
 
 ### Art. 53. Komisja rewizyjna Demokracji Bezpośredniej – lex specialis
 1. Komisja rewizyjna jest to stały zespół zadaniowy DB, którego wyłączną kompetencją jest kontrola finansowa działalności DB.
@@ -380,29 +286,34 @@ e) sporządzanie i składanie walnemu zgromadzeniu członków sprawozdania ze sw
 4. W skład komisji rewizyjnej wchodzą:  
 a) przewodniczący, a także  
 b) dwóch członków zwykłych.
-5. Wyboru członków komisji rewizyjnej dokonuje się podczas wyborczego walnego zgromadzenia członków w tajnym głosowaniu. Do odwołania członka komisji rewizyjnej przepisy art. 23. stosuje się odpowiednio. Komisja rewizyjna konstytuuje się samodzielnie.
+5. Wyboru członków komisji rewizyjnej dokonuje się podczas wyborczego walnego zgromadzenia członków w tajnym głosowaniu. Do odwołania członka komisji rewizyjnej przepisy art. 26. stosuje się odpowiednio. Komisja rewizyjna konstytuuje się samodzielnie.
 6. Członek komisji rewizyjnej nie może być zarazem członkiem zarządu krajowego lub krewnym członka zarządu krajowego.
 7. Niedozwolone jest powoływanie w drodze uchwały zespołów zadaniowych o charakterze krajowej komisji rewizyjnej.
 8. Komisja rewizyjna funkcjonuje bezterminowo. Przepisów art. 43. nie stosuje się w stosunku do komisji rewizyjnej.
 
-### Art. 54. Terenowe zespoły Demokracji Bezpośredniej – lex specialis
-1. DB wykonuje swoje zadania w terenie poprzez lokalne, stałe zespoły zadaniowe zwane dalej zespołami terenowymi.
-2. Zespoły terenowe funkcjonują z mocy statutu w powiatach, gminach miejskich i miastach na prawach powiatu (zespoły powiatowe).
-3. Zespół terenowy może zostać rozwiązany w drodze uchwały walnego zgromadzenia członków. Rozwiązanie zespołu terenowego oznacza odwołanie jego władz oraz wydalenie członków.
-4. Celem zespołów terenowych jest przeprowadzanie akcji terenowych, a zwłaszcza przygotowywanie członków DB do wyborów powszechnych w drodze organizacji kampanii wyborczej.
-5. Jeżeli zespół terenowy liczy przynajmniej 10 członków, władze zespołu terenowego są powoływane, odwoływane albo zmieniane w drodze głosowania członków zespołu terenowego. Jeżeli zespół terenowy liczy mniej niż 10 członków dokonuje się to uchwałą walnego zgromadzenia członków.
-6. W skład zarządu zespołu terenowego wchodzą:  
-a) przewodniczący,  
-b) wiceprzewodniczący,  
-c) sekretarz,  
-d) skarbnik, a także  
-e) członek zarządu.
-7. Przewodniczący zespołu terenowego reprezentuje zespół terenowy w powiecie i upoważnia innych członków zarządu zespołu terenowego do wykonywania jego kompetencji w określonym zakresie.
-8. W sprawie przyjęcia kandydata do zespołu terenowego lub wydaleniu członka z zespołu terenowego przepisy art. 49. i 50. stosuje się odpowiednio. Jeżeli zespół terenowy nie liczy pięciu członków, wniosek o dołączenie do zespołu zadaniowego kandydat kieruje do zarządu krajowego. Zarząd krajowy przyjmuje kandydata do zespołu w drodze uchwały. Jeżeli zespół terenowy liczy pięciu członków lecz nie posiada władz, o przyjęciu kandydata do tego zespołu terenowego decydują członkowie zespołu w drodze uchwały.
-9. Zespół terenowy przedkłada sprawozdanie ze swojej działalności walnemu zgromadzeniu członków przynajmniej raz na pół roku.
-10. Członek DB nie może być jednocześnie członkiem więcej niż jednego zespołu powiatowego.
-11. Niedozwolone jest powoływanie w drodze uchwały zespołów zadaniowych o charakterze zespołów terenowych.
-12. Zespoły terenowe funkcjonują bezterminowo. Przepisów art. 51. nie stosuje się w stosunku do zespołów terenowych.
+### Art. 54. Zespoły powiatowe – lex specialis
+1. Zespół powiatowy jest to zespół zadaniowy, podstawowa jednostka organizacyjno-wykonawcza DB na terenie powiatu lub miasta na prawach powiatu.
+2. Zespoły powiatowe funkcjonują z mocy statutu we wszystkich powiatach i miastach na prawach powiatu Polski.
+3. Zespół powiatowy może zostać rozwiązany w drodze uchwały walnego zgromadzenia członków. W tej sytuacji zostaje on automatycznie utworzony ponownie z mocy statutu, nie zawierając jednak żadnych członków ani obowiązujących uchwał.
+4. Celem zespołów powiatowych jest przeprowadzanie akcji lokalnych.
+5. Zespół powiatowy wybiera spośród siebie koordynatora, którego zadaniem jest koordynowanie działań oraz organizowanie spotkań zespołu.
+6. Zespół powiatowy ma prawo ustanawiać inne organy i delegować im część swoich uprawnień w drodze uchwały. Skład osobowy tych organów ustalany jest w drodze demokratycznych wyborów wśród członków zespołu.
+7. Zespół powiatowy ma prawo upoważniać wybrane osoby lub organy do reprezentowania zespołu w powiecie w określonym zakresie w drodze uchwały.
+8. Zespół powiatowy przyjmuje członków w drodze uchwały. Jeśli zespół powiatowy ma mniej niż 5 członków, przyjmować do niego członków może również zarząd krajowy w drodze uchwały.
+9. Zespół powiatowy wyklucza członków w drodze uchwały podjętej przez 2/3 głosujących.
+10. Zespół powiatowy przedkłada sprawozdanie ze swojej działalności walnemu zgromadzeniu członków przynajmniej raz na pół roku.
+11. Członek DB nie może być jednocześnie członkiem więcej niż jednego zespołu powiatowego.
+12. Niedozwolone jest powoływanie zespołów zadaniowych o charakterze zespołów powiatowych.
+13. Zespoły powiatowe funkcjonują bezterminowo. Przepisów art. 51. nie stosuje się w stosunku do zespołów powiatowych.
+
+### Art. 54a. Zespoły okręgowe - lex specialis
+1. Zespół okręgowy to tymczasowy zespół zadaniowy, powoływany przez zrzeszenie lub podział zespołów powiatowych zgodnie z układem okręgów wyborczych w Polsce w drodze uchwały walnego zgromadzenia.
+2. Celem zespołu okręgowego jest prowadzenie działań związanych z wyborami i kampanią wyborczą na terenie okręgu.
+3. W przypadku zespołu okręgowego powstałego w wyniku połączenia zespołów powiatowych, członkami zespołu są wszyscy członkowie połączonych zespołów powiatowych.
+4. W przypadku zespołów okręgowych powstałych w wyniku podzielenia zespołu powiatowego, członek zespołu powiatowego wybiera, do którego okręgu należy.
+5. Nie istnieją inne możliwości przyjmowania lub wykluczania członków zespołu okręgowego niż opisane w ust. 3 i 4.
+6. Zespół okręgowy wybiera spośród siebie koordynatora, którego zadaniem jest koordynowanie działań oraz organizowanie spotkań zespołu.
+7. Zespół okręgowy zostaje rozwiązany w momencie zakończenia wyborów w związku z którymi powstał.
 
 ## Rozdział 9. Finanse Demokracji Bezpośredniej
 ### Art. 55. Sposoby finansowania partii
@@ -418,13 +329,6 @@ Majątek DB powstaje ze składek członkowskich oraz innych źródeł dozwolonyc
 3. Członek musi uiścić składkę członkowską nie rzadziej niż raz w miesiącu, chyba że wcześniej opłacił składkę członkowską z góry.
 
 ## Rozdział 10. Przepisy przejściowe i dostosowujące
-
-### Art. 58. Przepisy przejściowe dotyczące wymogów poparcia
-Jeżeli liczba członków DB wynosi mniej niż 100 członków, to:  
-a) wszystkie projekty uchwał oraz wnioski, które wymagają poparcia 30 członków posiadających czynne prawo wyborcze, wymagają wtedy poparcia 1/3 członków DB,  
-b) wszystkie projekty uchwał oraz wnioski, które wymagają poparcia 50 członków posiadających czynne prawo wyborcze, wymagają wtedy poparcia 1/2 członków DB,  
-c) wszystkie projekty uchwał oraz wnioski, które wymagają poparcia 70 członków posiadających czynne prawo wyborcze, wymagają wtedy poparcia 3/5 członków DB, a także  
-d) wszystkie projekty uchwał oraz wnioski, które wymagają poparcia 100 członków posiadających czynne prawo wyborcze, wymagają wtedy poparcia 4/5 członków DB.
 
 ### Art. 59. Przepisy przejściowe dotyczące biernego i czynnego prawa wyborczego
 Przepisów art. 25 ust. 3 nie stosuje się wobec członków-założycieli wymienionych we wniosku rejestracyjnym partii.
