@@ -253,7 +253,7 @@ Kompetencje członków zarządu krajowego nie wymienionych w art. 35-38 określa
 
 ## Rozdział 7. Zespół zadaniowy
 ### Art. 43. Zespół zadaniowy
-Zespół zadaniowy jest to podstawowa jednostka organizacyjno-wykonawcza DB.
+Zespół zadaniowy jest to podstawowa jednostka organizacyjno-wykonawcza DB. Zespół zadaniowy wypełnia swoje cele w drodze podejmowania uchwał przez swoich członków. Posiedzenia zespołów zadaniowych są jawne.
 
 ### Art. 44. Tryb ustanawiania zespołu zadaniowego
 1. Walne zgromadzenie członków, zarząd krajowy oraz zespoły powiatowe mogą ustanawiać zespoły zadaniowe i przekazywać im część swoich kompetencji lub zadań w drodze uchwały.
