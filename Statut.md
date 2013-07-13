@@ -136,7 +136,7 @@ Walne zgromadzenie członków ma prawo:
 6) rozpatrywania kadencyjnych sprawozdań zarządu krajowego,  
 7) zatwierdzania sprawozdań finansowych, a także informacji z działalności finansowej DB,  
 8) udzielania absolutorium zarządowi krajowemu,  
-9) projektowania oraz zatwierdzania list wyborczych w wyborach powszechnych, w drodze tajnego, preferencyjnego głosowania albo przekazywania tego uprawnienia członkom zespołów zadaniowych, a zwłaszcza zespołom terenowym, w drodze uchwały,  
+9) projektowania oraz zatwierdzania list wyborczych, a także zatwierdzania kandydatów w wyborach powszechnych, w drodze tajnego, preferencyjnego głosowania albo przekazywania tego uprawnienia członkom zespołów zadaniowych, a zwłaszcza zespołom terenowym, w drodze uchwały. Projektowanie oraz zatwierdzenie może się odbyć w drodze powszechnych prawyborów jeśli zgodę na to wyraziło Walne Zgromadzenie lub członkowie zespołów zadaniowych, którym walne zgromadzenie przekazało to uprawnienie.  
 10) swobodnego kształtowania trzeciego miejsca na liście wyborczej w okręgu wyborczym w wypadku przekazania uprawnienia, o którym mowa w pkt. 9,  
 11) składania zarządowi krajowemu zapytań w sprawach związanych z działalnością DB,  
 12) zatwierdzania programu wyborczego DB, a także  
