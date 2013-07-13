@@ -1,13 +1,13 @@
 ## Zarząd Krajowy
 * Adam Kotucha - przewodniczący
-* Andrzej Fatyga - wiceprzewodniczący
+* Dominik Hernik - wiceprzewodniczący
 * Szczepan Jonko - wiceprzewodniczący
-* Andrzej Gorayski - skarbnik
+* Artur Lorek - skarbnik
 * Beata Dziudzik - sekretarz
-* Zbigniew Kawalec
-* Artur Lorek
+* Michał Broniewicz
+* Krzysztof Naleźniak
 
 ## Komisja Rewizyjna
 * Andrzej Jędrzejewski
-* Iwona Radoń
+* Janusz Lewandowski
 * Krzysztof Szewczyk
