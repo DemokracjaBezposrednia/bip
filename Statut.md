@@ -82,6 +82,7 @@ Członkostwo w DB wygasa na skutek zarówno:
 1. O przyjęciu kandydata do DB decyduje zarząd krajowy lub też członkowie upoważnieni w uchwale zarządu krajowego, w drodze uchwały lub postanowienia, na podstawie złożonej przez kandydata deklaracji członkowskiej.
 2. Od uchwały w sprawie nieprzyjęcia kandydata do DB, kandydat może złożyć odwołanie do walnego zgromadzenia członków, w terminie nie dłuższym niż 30 dni od dnia doręczenia uchwały.
 3. Uchwała w sprawie nieprzyjęcia kandydata może zostać uchylona, przez uwzględnienie odwołania przez walne zgromadzenie członków, w drodze tajnego głosowania.
+4. Zarząd krajowy DB zawiadamia kandydata o przyjęciu go w poczet członków. W ciągu 1 miesiąca od doręczenia zawiadomienia członek musi opłacić z góry 3-miesięczną składkę członkowską, na podstawie przepisów art. 57. W przypadku niewywiązania się z obowiązku jego członkostwo uznaje się za niebyłe.
 
 ### Art. 14. Zawieszenie członkostwa
 1. Członek może zawiesić swoje członkostwo w drodze deklaracji.
