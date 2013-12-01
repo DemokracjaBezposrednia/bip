@@ -324,10 +324,10 @@ Majątek DB powstaje ze składek członkowskich oraz innych źródeł dozwolonyc
 1. Przewodniczący oraz skarbnik reprezentują DB na zewnątrz przy zaciąganiu zobowiązań majątkowych oraz finansowych.
 2. Walne zgromadzenie członków może powoływać w drodze uchwały pełnomocników uprawnionych do reprezentowania DB na zewnątrz oraz zaciągania w imieniu DB zobowiązań majątkowych oraz finansowych, w zakresie określonym w uchwale.
 
-### Art. 57. Wysokość składki
-1. Wysokość składki członkowskiej jest ustalana przez członka, chyba że uchwała walnego zgromadzenia członków stanowi inaczej.
+### Art. 57. Składki i darowizny
+1. Wysokość, częstotliwość oraz zasady opłacania składek członkowskich określa [[Regulamin składek i darowizn]].
 2. Przy każdorazowym ustalaniu wysokości składki członkowskiej stosuje się przepisy Rozdziału 4 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych.
-3. Członek musi uiścić składkę członkowską nie rzadziej niż raz w miesiącu, chyba że wcześniej opłacił składkę członkowską z góry.
+3. Zasady wpłacania darowizn określa [[Regulamin składek i darowizn]].
 
 ## Rozdział 10. Przepisy przejściowe i dostosowujące
 
