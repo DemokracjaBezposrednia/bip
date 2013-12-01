@@ -100,11 +100,12 @@ Członkostwo w DB wygasa na skutek zarówno:
 6. Przywrócenie członkostwa nie powoduje przywrócenia funkcji pełnionych w chwili zawieszenia członkostwa.
 
 ### Art. 16. Wykreślenie członka na skutek nieopłacania składek członkowskich
-1. Jeżeli członek DB nie opłaca składek członkowskich przez okres dłuższy niż 3 miesiące, zarząd krajowy wysyła wezwanie do zapłaty. Wezwanie do zapłaty może zostać wysłane drogą elektroniczną.
-2. Jeżeli członek DB nie ureguluje zaległych płatności w terminie 14 dni od dnia doręczenia wezwania do zapłaty, Zarząd krajowy wykreśla członka z rejestru członków, równocześnie zawiadamiając członka o tej decyzji.
-3. Od decyzji, o której mowa w ust. 2, osoba wykreślona z rejestru członków może złożyć odwołanie do walnego zgromadzenia członków, w terminie nie dłuższym niż 30 dni od dnia doręczenia decyzji.
-4. Odwołanie, o którym mowa w ust. 3, osoba wykreślona z rejestru członków może złożyć po uprzednim uregulowaniu zaległych płatności.
-5. Decyzja w sprawach, o których mowa w ust. 2 oraz ust. 3, może zostać uchylona, przez uwzględnienie odwołania w drodze tajnego głosowania na walnym zgromadzeniu członków.
+1. W przypadku nieopłacania składek członkowskich przez okres 3 miesięcy członkostwo w DB zostaje zawieszone do momentu uregulowania zaległości, jednak nie dłużej niż na okres kolejnych 3 miesięcy.
+2. Najpóźniej na 14 dni przez upływem 6 miesiąca zalegania ze składkami Zarząd krajowy DB wysyła wezwanie do zapłaty. Wezwanie do zapłaty może zostać wysłane drogą elektroniczną.
+3. Jeżeli członek DB nie ureguluje zaległych płatności w terminie 14 dni od dnia doręczenia wezwania do zapłaty, Zarząd krajowy wykreśla członka z rejestru członków, równocześnie zawiadamiając członka o tej decyzji.
+4. Od decyzji, o której mowa w ust. 2, osoba wykreślona z rejestru członków może złożyć odwołanie do walnego zgromadzenia członków, w terminie nie dłuższym niż 30 dni od dnia doręczenia decyzji.
+5. Odwołanie, o którym mowa w ust. 3, osoba wykreślona z rejestru członków może złożyć po uprzednim uregulowaniu zaległych płatności.
+6. Decyzja w sprawach, o których mowa w ust. 2 oraz ust. 3, może zostać uchylona, przez uwzględnienie odwołania w drodze tajnego głosowania na walnym zgromadzeniu członków.
 
 ### Art. 17. Wykluczenie członka
 1. Walne zgromadzenie członków może wykluczyć członka DB za uzasadnioną przyczyną w drodze uchwały podjętej przez 4/5 głosujących.
