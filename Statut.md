@@ -92,12 +92,11 @@ Członkostwo w DB wygasa na skutek zarówno:
 
 ### Art. 15. Dyscyplinarne zawieszenie członkostwa
 1. Walne zgromadzenie członków może dyscyplinarnie zawiesić członka DB w drodze uchwały.
-2. Do momentu przeprowadzenia głosowania nad tą uchwałą, zarząd krajowy może tymczasowo zawiesić członka dyscyplinarnie w drodze uchwały. Przepisy art. 14. ust. 4. Stosuje się odpowiednio. Uchwała zarządu krajowego traci ważność w momencie zakończenia głosowania nad uchwałą walnego zgromadzenia.
-3. Zawieszenie dyscyplinarne następuje w drodze tajnego głosowania.
-4. Zawieszenie dyscyplinarne powoduje wygaśnięcie pełnionych w DB funkcji oraz utratę biernego i czynnego prawa wyborczego. Przepisów art. 13 ust. 6. nie stosuje się.
-5. Walne zgromadzenie członków może przywrócić członkostwo osoby zawieszonej w drodze uchwały.
-6. Przywrócenie członkostwa następuje w drodze tajnego głosowania.
-7. Przywrócenie członkostwa nie powoduje przywrócenia funkcji pełnionych w chwili zawieszenia członkostwa.
+2. Zawieszenie dyscyplinarne następuje w drodze tajnego głosowania.
+3. Zawieszenie dyscyplinarne powoduje wygaśnięcie pełnionych w DB funkcji oraz utratę biernego i czynnego prawa wyborczego.
+4. Walne zgromadzenie członków może przywrócić członkostwo osoby zawieszonej w drodze uchwały.
+5. Przywrócenie członkostwa następuje w drodze tajnego głosowania.
+6. Przywrócenie członkostwa nie powoduje przywrócenia funkcji pełnionych w chwili zawieszenia członkostwa.
 
 ### Art. 16. Wykreślenie członka na skutek nieopłacania składek członkowskich
 1. Jeżeli członek DB nie opłaca składek członkowskich przez okres dłuższy niż 3 miesiące, zarząd krajowy wysyła wezwanie do zapłaty. Wezwanie do zapłaty może zostać wysłane drogą elektroniczną.
