@@ -4,10 +4,10 @@
 * Szczepan Jonko - wiceprzewodniczący
 * Artur Lorek - skarbnik
 * Beata Dziudzik - sekretarz
-* Michał Broniewicz
 * Krzysztof Naleźniak
+* Krzysztof Szewczyk
 
 ## Komisja Rewizyjna
-* Andrzej Jędrzejewski
+* Janusz Banach
 * Janusz Lewandowski
-* Krzysztof Szewczyk
+* Łukasz Plonus
