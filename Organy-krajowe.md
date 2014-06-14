@@ -1,7 +1,7 @@
 ## Zarząd Krajowy
 * Adam Kotucha - przewodniczący
 * Dominik Hernik - wiceprzewodniczący
-* Szczepan Jonko - wiceprzewodniczący
+* Łukasz Plonus - wiceprzewodniczący
 * Artur Lorek - skarbnik
 * Beata Dziudzik - sekretarz
 * Krzysztof Naleźniak
@@ -10,4 +10,4 @@
 ## Komisja Rewizyjna
 * Janusz Banach
 * Janusz Lewandowski
-* Łukasz Plonus
+* Piotr Kobus
