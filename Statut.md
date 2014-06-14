@@ -188,7 +188,7 @@ Do kompetencji zarządu krajowego należy zarazem:
 10) pełnienie funkcji komitetu wyborczego
 
 ### Art. 31. Zasady reprezentacji
-Przewodniczący oraz wiceprzewodniczący zarządu krajowego upoważnieni są do samodzielnego reprezentowania DB na zewnątrz w drodze składania oświadczeń woli w imieniu partii, chyba że statut lub uchwała walnego zgromadzenia udziela pełnomocnictwa do reprezentacji w określonym zakresie innemu członkowi DB.
+Przewodniczący, wiceprzewodniczący oraz sekretarz zarządu krajowego upoważnieni są do samodzielnego reprezentowania DB na zewnątrz w drodze składania oświadczeń woli w imieniu partii, chyba że statut lub uchwała walnego zgromadzenia udziela pełnomocnictwa do reprezentacji w określonym zakresie innemu członkowi DB.
 
 ### Art. 32. Skład zarządu
 W skład zarządu krajowego wchodzą:  
