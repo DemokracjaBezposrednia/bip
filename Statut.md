@@ -221,8 +221,9 @@ Do kompetencji wiceprzewodniczącego należy zastępowanie przewodniczącego w p
 Do kompetencji sekretarza należy zarazem:  
 1) prowadzenie i aktualizowanie rejestru uchwał i protokołów oraz rejestru członków,  
 2) zapewnienie technicznych warunków funkcjonowania zarządu krajowego,  
-3) przygotowywanie projektów opinii w sprawie działalności zespołów zadaniowych, a także  
-4) przygotowywanie projektu sprawozdania, o którym mowa w art. 30. ust. 2 i 4.
+3) przygotowywanie projektów opinii w sprawie działalności zespołów zadaniowych,  
+4) przygotowywanie projektu sprawozdania, o którym mowa w art. 30. ust. 2 i 4, a także  
+5) reprezentowanie DB na zewnątrz w drodze składania oświadczeń woli w imieniu partii.
 
 ### Art. 38. Kompetencje skarbnika
 Do kompetencji skarbnika należy zarazem:  
