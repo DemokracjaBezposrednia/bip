@@ -16,7 +16,8 @@ Demokracja Bezpośrednia dzięki swemu ustrojowi wewnętrznemu pozwala na to, by
 ### Art. 3. Tryb podejmowania decyzji
 1. Kolegialne organy DB wyrażają swoją wolę w formie uchwał. Inne organy DB wyrażają swoją wolę w formie postanowień. Członkowie DB wyrażają swoją wolę w formie deklaracji.
 2. Zasady podejmowania uchwał, wydawania postanowień i publikowania deklaracji precyzuje uchwała walnego zgromadzenia ([[regulamin oświadczeń]]).
-3. Prawo do głosowania mają członkowie, którzy nie zalegają z opłatami składek.
+3. Prawo do głosowania mają członkowie, którzy nie zalegają z opłatami składek, z zastrzeżeniem ust. 4.
+4. Prawo do głosowania członkowie nabywają po opłaceniu składki, o której mowa w art. 12. ust.
 
 ### Art. 4. Definicje legalne
 1. Decyzja jest to rozstrzygnięcie będące wynikiem dokonania wyboru, wyrażone w drodze uchwały albo postanowienia, o których mowa w art. 3. ust. 1.
