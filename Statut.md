@@ -6,7 +6,7 @@ Demokracja Bezpośrednia dzięki swemu ustrojowi wewnętrznemu pozwala na to, by
 ## Rozdział 1. Przepisy ogólne
 ### Art. 1. Demokracja Bezpośrednia
 1. Demokracja Bezpośrednia jest to partia polityczna. Demokracja Bezpośrednia działa zgodnie z obowiązującym porządkiem prawnym.
-2. "DB" jest to skrót nazwy partii Demokracja Bezpośrednia.
+2. „Demokracja Bezpośrednia Obywatele Decydują” jest to skrót nazwy partii Demokracja Bezpośrednia.
 
 ### Art. 2. Obszar działania i siedziba
 1. Demokracja Bezpośrednia - zwana dalej DB - działa na terytorium Rzeczypospolitej Polskiej.
