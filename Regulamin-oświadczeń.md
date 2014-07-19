@@ -11,6 +11,7 @@ c) w formie pisemnej jeśli nie służą głosowaniu.
 1. Uchwały zgłasza się w formie projektu i podejmuje w głosowaniach. Głosuje się w drodze deklaracji.
 2. Projekt uchwały organu albo zespołu zadaniowego może zgłosić przynajmniej 30 członków lub przynajmniej 10% członków składu danego organu albo zespołu zadaniowego na ręce sekretarza zarządu DB, chyba że regulamin organu lub zespołu stanowi inaczej.
 3. Projekt uchwały walnego zgromadzenia członków może ponadto zgłosić zespół zadaniowy i zarząd krajowy DB.
+4. Projekt uchwały można wnieść nie poźniej niż na 3 dni przed dniem posiedzenia walnego zgromadzenia, o którym mowa w art. 6. Projekty wniesione w terminie późniejszym mogą być rozpatrzone po uprzedniej akceptacji Zarządu.
 
 ### Art. 4. Sposób przeprowadzania głosowań
 1. Głosowania przeprowadza się na fizycznych posiedzeniach lub w drodze głosowania elektronicznego.
