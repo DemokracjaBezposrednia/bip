@@ -11,3 +11,6 @@
 * Janusz Banach
 * Janusz Lewandowski
 * Piotr Kobus
+
+## Zespoły zadaniowe
+* [[Zespół wyborczy]]
