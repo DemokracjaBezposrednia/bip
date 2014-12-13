@@ -14,3 +14,4 @@
 
 ## Zespoły zadaniowe
 * [[Zespół wyborczy]]
+* [[Zespół zadaniowy ds Przedsiębiorców i Gospodarki]]
