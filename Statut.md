@@ -38,7 +38,7 @@ Członkiem DB może być osoba, która zarazem:
 1) posiada obywatelstwo Rzeczypospolitej Polskiej,  
 2) ukończyła 18 lat,  
 3) akceptuje statut i program DB,  
-4) nie jest członkiem innej partii politycznej,  
+4) nie jest członkiem innej polskiej partii politycznej,  
 5) nie jest częściowo lub całkowicie ubezwłasnowolniona,  
 6) nie została pozbawiona praw publicznych prawomocnym orzeczeniem sądu,  
 7) nie została pozbawiona praw wyborczych orzeczeniem Trybunału Stanu,  
