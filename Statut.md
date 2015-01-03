@@ -188,7 +188,7 @@ Do kompetencji zarządu krajowego należy zarazem:
 10) pełnienie funkcji komitetu wyborczego
 
 ### Art. 31. Zasady reprezentacji
-Przewodniczący, wiceprzewodniczący oraz sekretarz zarządu krajowego upoważnieni są do samodzielnego reprezentowania DB na zewnątrz w drodze składania oświadczeń woli w imieniu partii, chyba że statut lub uchwała walnego zgromadzenia udziela pełnomocnictwa do reprezentacji w określonym zakresie innemu członkowi DB.
+Do reprezentowania DB na zewnątrz w drodze składania oświadczeń woli w imieniu partii upoważnieni są łącznie: Przewodniczący lub Wiceprzewodniczący lub Sekretarz z innym członkiem Zarządu, chyba że statut lub uchwała walnego zgromadzenia udziela pełnomocnictwa do reprezentacji w określonym zakresie innemu członkowi DB.
 
 ### Art. 32. Skład zarządu
 W skład zarządu krajowego wchodzą:  
@@ -221,9 +221,8 @@ Do kompetencji wiceprzewodniczącego należy zastępowanie przewodniczącego w p
 Do kompetencji sekretarza należy zarazem:  
 1) prowadzenie i aktualizowanie rejestru uchwał i protokołów oraz rejestru członków,  
 2) zapewnienie technicznych warunków funkcjonowania zarządu krajowego,  
-3) przygotowywanie projektów opinii w sprawie działalności zespołów zadaniowych,  
-4) przygotowywanie projektu sprawozdania, o którym mowa w art. 30. ust. 2 i 4, a także  
-5) reprezentowanie DB na zewnątrz w drodze składania oświadczeń woli w imieniu partii.
+3) przygotowywanie projektów opinii w sprawie działalności zespołów zadaniowych, a także  
+4) przygotowywanie projektu sprawozdania, o którym mowa w art. 30. pkt. 2 i 4.
 
 ### Art. 38. Kompetencje skarbnika
 Do kompetencji skarbnika należy zarazem:  
