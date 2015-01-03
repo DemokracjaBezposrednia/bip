@@ -146,12 +146,12 @@ Walne zgromadzenie członków ma prawo:
 14) uchwalenie okresowych planów budżetowych dla partii, mających w określonych w nim ramach wiążący charakter dla zarządu.
 
 ### Art. 24. Tryb uchwalania statutu oraz wprowadzania w nim zmian
-Walne zgromadzenie członków uchwala statut albo dokonuje zmian w statucie w drodze uchwały, głosowanej przy udziale co najmniej połowy uprawnionych do głosowania i jednocześnie kwalifikowaną większością 2/3 głosów. Uprawnienie do głosowania w sprawie zmian w statucie członek nabywa po 90 dniach od dnia decyzji o przyjęciu do DB lub od zakończenia procedury odwoławczej. Jeżeli w głosowaniu bierze udział mniej niż połowa uprawnionych do głosowania zarząd krajowy wyznacza następny termin głosowania, który pozbawiony jest wymogu quorum.
+Walne zgromadzenie członków uchwala statut albo dokonuje zmian w statucie w drodze uchwały, głosowanej przy udziale co najmniej połowy uprawnionych do głosowania i jednocześnie kwalifikowaną większością 2/3 głosów. Uprawnienie do głosowania w sprawie zmian w statucie członek nabywa po 12 miesiącach od dnia decyzji o przyjęciu do DB lub od zakończenia procedury odwoławczej. Jeżeli w głosowaniu bierze udział mniej niż połowa uprawnionych do głosowania zarząd krajowy wyznacza następny termin głosowania, który pozbawiony jest wymogu quorum.
 
 ### Art. 25. Wybory zarządu partii
 1. Zjazd wyborczy walnego zgromadzenia powołuje w czasie wyborów przewodniczącego zarządu krajowego, dwóch wiceprzewodniczących zarządu krajowego, skarbnika zarządu krajowego, sekretarza zarządu krajowego, a także dwóch członków zarządu krajowego.
 2. Wybory organów, o których mowa w ust. 1. zarządza przewodniczący zarządu krajowego w drodze postanowienia zwołującego zjazd wyborczy walnego zgromadzenia,nie wcześniej niż na 45 dni oraz nie później niż na 30 dni przed upływem 2 lat od rozpoczęcia kadencji zarządu krajowego.
-3. Czynne prawo wyborcze członek nabywa po 90 dniach od dnia decyzji o przyjęciu do DB lub od zakończenia procedury odwoławczej.
+3. Czynne prawo wyborcze członek nabywa po 12 miesiącach od dnia decyzji o przyjęciu do DB lub od zakończenia procedury odwoławczej
 4. Wybory organów, o których mowa w ust. 1, przeprowadzane są rozdzielnie.
 5. Zgłoszenie kandydatury członka do funkcji, o których mowa w ust. 1, może złożyć 15 członków posiadających czynne prawo wyborcze. Zgłoszenie może być złożone nie później niż na 14 dni przed zjazdem wyborczym walnego zgromadzenia, o którym mowa w ust. 2. Jest dopuszczalne złożenie wniosku przewodniczącemu zjazdu wyborczego walnego zgromadzenia w trakcie trwania zgromadzenia.
 6. Zgłoszenie kandydatury dokonuje się w drodze deklaracji.
