@@ -1,5 +1,5 @@
 ## Zarząd Krajowy
-* Przewodniczący - Adam Kotucha - e-mail: adam.kotucha@db.org.pl, tel: 600 728 125
+* Przewodniczący - Adam Kotucha, kontakt: adam.kotucha@db.org.pl, 600 728 125
 * Dominik Hernik - wiceprzewodniczący
 * Agnieszka Pabich - wiceprzewodnicząca
 * Artur Lorek - skarbnik
