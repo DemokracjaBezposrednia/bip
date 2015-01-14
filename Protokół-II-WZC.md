@@ -1,5 +1,4 @@
-Protokół z II Walnego Zgromadzenia Członków Demokracji Bezpośredniej w Warszawie
-w dniu 06.04.2013 r.
+## Protokół z II Walnego Zgromadzenia Członków Demokracji Bezpośredniej w Warszawie w dniu 06.04.2013 r.
 
 Walne Zebranie Członków (dalej zwane WZ) partii Demokracja Bezpośrednia (zwana dalej DB) odbyło się dnia  06.04.2013 roku  sali konferencyjnej lokalu Whisky&Cognac Club Warszawa – Wesoła, ul. Trakt Brzeski 54c.
 
@@ -9,11 +8,12 @@ W posiedzeniu wzięło udział 40 członków DB zgodnie z załączoną listą ob
 
 Drugi termin WZ rozpoczął się o godzinie 12:05.
 
-Przebieg WZ
+#### Przebieg WZ
 
 Obrady otworzył przewodniczący DB Adam Kotucha, który po krótkim powitaniu zebranych zaproponował, aby całość obrad była podzielona na dwie części:
-pierwsza - dotycząca spraw statutowych i programowych oraz proponowanych w nich zmian;
-druga - dotycząca wyborów składu osobowego Zarządu i Komisji Rewizyjnej. 
+* pierwsza - dotycząca spraw statutowych i programowych oraz proponowanych w nich zmian;
+* druga - dotycząca wyborów składu osobowego Zarządu i Komisji Rewizyjnej. 
+
 Andrzej Fatyga zaproponował Jarosława Medyńskiego jako przewodniczącego pierwszej części obrad. Andrzej Gorayski zaproponował Adama Kotuchę jako przewodniczącego pierwszej części obrad oraz Beatę Dziudzik jako sekretarza WZ.
 
 Optyczną większością głosów wybrano na przewodniczącego pierwszej części obrad Adama Kotuchę, oraz na sekretarza WZ Beatę Dziudzik.
@@ -27,55 +27,55 @@ Tak ukształtowany porządek obrad Walne Zgromadzenie przyjęło jednogłośnie.
 
 Rozpoczęła się seria głosowań nad uchwałami programowymi:
 
-Projekt uchwały nr 1/4/2013 (Załącznik nr 3) – wybór bezpośredni szefa mediów
-wniosek o dodanie do nazwy – dodać do nazwy stanowiska określenie „publicznych”
+##### Projekt uchwały nr 1/4/2013 (Załącznik nr 3) – wybór bezpośredni szefa mediów: wniosek o dodanie do nazwy – dodać do nazwy stanowiska określenie „publicznych”.
 Przewodniczący zarządził głosowanie. Ilość uprawnionych do głosowania – 38 osób, ilość glosów wymagana do podjęcia uchwały – 20.
-głosy za - 36
-głosy przeciw - 0
-głosy wstrzymujące – 2
+* głosy za - 36
+* głosy przeciw - 0
+* głosy wstrzymujące – 2
 
 W wyniku głosowania uchwała została podjęta.
 
+
 Podczas odczytywania projektu uchwały nr 2/4/2013  (Załącznik nr 4) Jarosław Medyński zaproponował aby głosowanie nad nią odłożyć do następnego posiedzenia z racji braku dostatecznej szczegółowości.
 Przewodniczący zarządził głosowanie. Ilość uprawnionych do głosowania – 38 osób, ilość głosów wymagana do podjęcia uchwały – 20.
-głosy za - 32
-głosy przeciw - 2
-głosy przeciw - 4
+* głosy za - 32
+* głosy przeciw - 2
+* głosy przeciw - 4
 
 W wyniku głosowania wniosek Jarosława Medyńskiego został podjęty.
 
-Projekt uchwały nr 3/4/2013 (załącznik nr 5) – administracja zespolona pod kontrolą marszałka województwa
+##### Projekt uchwały nr 3/4/2013 (załącznik nr 5) – administracja zespolona pod kontrolą marszałka województwa
 
-Autor proponowanej uchwały, Michał Broniewicz omówił, czym jest administracja zespolona, kto wchodzi w skład tej administracji.
-Następnie głos zabrali uczestnicy WZ. Podczas dyskusji zwracano uwagę, że wprowadzenie zdecentralizowanego zarządzania poszczególnymi jednostkami może prowadzić do chaosu. Przykład: transport publiczny, straż pożarna. Jeden z uczestników zwrócił również uwagę na Straż Miejską, która ma coraz więcej uprawnień, które powinny zostać przekazane policji. Przytoczono również przykład przedwojennego województwa śląskiego, gdzie najwięcej uprawnień miał ówczesny wojewoda.
+Autor proponowanej uchwały, Michał Broniewicz omówił, czym jest administracja zespolona, kto wchodzi w skład tej administracji. Następnie głos zabrali uczestnicy WZ. Podczas dyskusji zwracano uwagę, że wprowadzenie zdecentralizowanego zarządzania poszczególnymi jednostkami może prowadzić do chaosu. Przykład: transport publiczny, straż pożarna. Jeden z uczestników zwrócił również uwagę na Straż Miejską, która ma coraz więcej uprawnień, które powinny zostać przekazane policji. Przytoczono również przykład przedwojennego województwa śląskiego, gdzie najwięcej uprawnień miał ówczesny wojewoda.
 
 Na wszystkie pytania i wątpliwości odpowiedział Michał Broniewicz – autor pomysłu.
 
 Przewodniczący zarządził głosowanie. Ilość uprawnionych do głosowania – 38 osób, ilość glosów wymagana do podjęcia uchwały – 20.
-głosy za - 25
-głosy przeciw - 5
-głosy wstrzymujące - 8
+* głosy za - 25
+* głosy przeciw - 5
+* głosy wstrzymujące - 8
 
 W wyniku głosowania uchwała została podjęta.
 
-Projekt uchwały nr 4/4/2013 (załącznik nr 6) w sprawie autonomii uniwersyteckiej, dotyczącej rozszerzenia autonomii uniwersytetów, a także nadania uczelniom przywileju eksterytorialności.
+##### Projekt uchwały nr 4/4/2013 (załącznik nr 6) w sprawie autonomii uniwersyteckiej, dotyczącej rozszerzenia autonomii uniwersytetów, a także nadania uczelniom przywileju eksterytorialności.
 
-Jakub Buczny omówił projekt, którego celem ma być rozszerzenie bazy programowej DB: jeżeli program zaakcentuje rozszerzenie pola dla uniwersytetów, wówczas zyska on zainteresowanie szerszego grona studentów.
+Jakub Buczny omówił projekt, którego celem ma być rozszerzenie bazy programowej DB: jeżeli program zaakcentuje rozszerzenie pola dla uniwersytetów, wówczas zyska on zainteresowanie szerszego grona studentów. 
+
 W wyniku burzliwej dyskusji oraz zbyt pobieżnego omówienia problemu Andrzej Fatyga zaproponował (w drodze złożenia wniosku formalnego), aby wszystkie przyjęte następnie uchwały programowe kierować do dalszych prac w grupach eksperckich.
 
 Przewodniczący zarządził głosowanie wniosku Andrzeja Fatygi. Ilość uprawnionych do głosowania – 38 osób, ilość głosów wymagana do podjęcia uchwały – 20.
-głosy za – 28
-głosy przeci – 5 
-głosy wstrzymujące – 5 
+* głosy za – 28
+* głosy przeci – 5 
+* głosy wstrzymujące – 5 
 
-W wyniku głosowania uchwała została podjęta . Od tej pory każda z uchwał dotycząca spraw programowych, którą uchwalimy podlega przegłosowaniu zgodnie z wnioskiem Andrzeja Fatygi.
+W wyniku głosowania uchwała została podjęta. Od tej pory każda z uchwał dotycząca spraw programowych, którą uchwalimy podlega przegłosowaniu zgodnie z wnioskiem Andrzeja Fatygi.
 
-Projekt uchwały nr 4/4/2013 rozbito na dwie części – teraz głosowano postulat eksterytorialności uczelni.
+##### Projekt uchwały nr 4/4/2013 rozbito na dwie części – teraz głosowano postulat eksterytorialności uczelni.
 
 Przewodniczący zarządził głosowanie. Ilość uprawnionych do głosowania – 38 osób, ilość głosów wymagana do podjęcia uchwały – 20.
-głosy za - 2
-głosy przeciw - 18
-głosy wstrzymujące – 18
+* głosy za - 2
+* głosy przeciw - 18
+* głosy wstrzymujące – 18
 
 W wyniku głosowania uchwała została odrzucona.
 
@@ -83,18 +83,16 @@ Andrzej Fatyga zaproponował aby wszystkie dotychczas podjęte również uchwał
 
 Wniosek formalny Walne Zgromadzenie przyjęło w głosowaniu jednogłośnie. Tym samym również dotychczas podjęte uchwały nie zostały włączone do programu Demokracji Bezpośredniej, tylko skierowane do dalszych prac celem uszczegółowienia.
 
-
-
-
-Projekt uchwały nr 5/4/2013 (załącznik nr 8) dotyczący referendów w pakietach po kilka – kilka razy w roku.
+##### Projekt uchwały nr 5/4/2013 (załącznik nr 8) dotyczący referendów w pakietach po kilka – kilka razy w roku.
 Autor projektu Janusz Lewandowski wyjaśnił, jak mają te głosowania wyglądać. Omówiono system pakietowych referendów w Szwajcarii. Wskazywano, że głosowania elektroniczne jako tańsze mogą trwać dłużej niż jeden dzień.
 Przeprowadzono dyskusję, po której Przewodniczący zarządził głosowanie. Ilość uprawnionych do głosowania – 38 osób, ilość głosów wymagana do podjęcia uchwały – 20.
-głosy za - 31
-głosy przeciw - 1
-głosy wstrzymujące – 6
+* głosy za - 31
+* głosy przeciw - 1
+* głosy wstrzymujące – 6
 
 W wyniku głosowania uchwała została podjęta.
 
+#  tututu
 
 -------------------------------  W trakcie WZ, o godzinie 12:35, przybyły 2 osoby. Od tego momentu członków biorących udział w WZ jest 40.
 
@@ -576,4 +574,4 @@ Adam Kotucha zripostował, że głosowanie nad zmianą porządku obrad odbyło s
 
 
 
-Przewodniczący Obrad (podpisy)                                        			   Protokolanci Obrad (podpisy)
+Przewodniczący Obrad (podpisy)                                          		   Protokolanci Obrad (podpisy)
