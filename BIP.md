@@ -13,5 +13,5 @@ Główny serwis Demokracji Bezpośredniej znajduje się pod adresem http://db.or
 * [[Organy krajowe]]
 * [[Program - Turkusowa (R)ewolucja|http://db.org.pl/program/]]
 * [[Koordynatorzy lokalni|http://db.org.pl/okregi/]]
-* [[WZC - dokumenty]]
+* [[WZC - dokumenty|WZC-dokumenty]]
 * Wybory 2015: [[Budżet|Wybory-2015-Budżet.xls]], [[Kalendarz|Wybory-2015-Kalendarz.xls]]
