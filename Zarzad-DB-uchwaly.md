@@ -1,0 +1,3 @@
+## Uchwały Zarządu Demokracji Bezpośredniej 
+
+* [[Nr 01/01/2015 z 05.01.2015 r. - zwołanie WZC]]
