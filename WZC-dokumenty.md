@@ -25,12 +25,43 @@
 
 ### IV WZC - 14.12.2013 r.
 
+* [[Uchwała nr 03/12/2013 - statutowa - zmiana art. 24 (zniesienie wymogu kworum)|http://bip.db.org.pl/WZC-dokumenty/04-WZC_uchwa%C5%82a_03_%28kworum_art.24%29-.pdf]]
+* [[Uchwała nr 05/12/2013 - statutowa - zmiana art. 15 (dyscyplinarne zawieszenie członkostwa)|http://bip.db.org.pl/WZC-dokumenty/04-WZC_uchwa%C5%82a_05_%28zawieszenie-dyscyplinarne_art.15%29-.pdf]]
+* [[Uchwała nr 06/12/2013 - statutowa - zmiana art. 12 (3-miesięczne składki)|http://bip.db.org.pl/WZC-dokumenty/04-WZC_uchwa%C5%82a_06_%283-miesi%C4%99czne_sk%C5%82adki_art.12%29-.pdf]]
+* [[Uchwała nr 07/12/2013 - statutowa - zmiana art. 16 (wykreślenie za brak składek)|http://bip.db.org.pl/WZC-dokumenty/04-WZC_uchwa%C5%82a_07_%28wykre%C5%9Blenie_sk%C5%82adki_art.16%29-.pdf]]
+* [[Uchwała nr 08/12/2013 - statutowa - zmiana art. 57 (składki i darowizny - zasady)|http://bip.db.org.pl/WZC-dokumenty/04-WZC_uchwa%C5%82a_08_%28sk%C5%82adki_art.57%29-.pdf]]
+* [[Uchwała nr 09/12/2013 - Regulamin składek i darowizn|http://bip.db.org.pl/WZC-dokumenty/04-WZC_uchwa%C5%82a_09_%28Regulamin_sk%C5%82adek_i_darowizn%29-.pdf]]
+* [[Uchwała nr 10/12/2013 - wyborcza - powołanie członka Zarządu DB|http://bip.db.org.pl/WZC-dokumenty/04-WZC_uchwa%C5%82a_10_%28wyborcza_cz%C5%82onek_zarz%C4%85du%29-.pdf]]
+* [[Uchwała nr 11/12/2013 - wyborcza - powołanie członka KR DB|http://bip.db.org.pl/WZC-dokumenty/04-WZC_uchwa%C5%82a_11_%28wyborcza_cz%C5%82onek_KR%29-.pdf]]
+* [[Uchwała nr 12/12/2013 - wykluczenie dyscyplinarne|http://bip.db.org.pl/WZC-dokumenty/04-WZC_uchwa%C5%82a_12_%28wykluczenie_A.Fatygi%29-.pdf]]
+* [[Uchwała nr 13/12/2013 - zmiana adresu siedziby|http://bip.db.org.pl/WZC-dokumenty/04-WZC_uchwa%C5%82a_13_%28zmiana_adresu%29-.pdf]]
+* [[Uchwała nr 14/12/2013 - przyjęcie Regulaminu startu w wyborach do PE w 2014|http://bip.db.org.pl/WZC-dokumenty/04-WZC_uchwa%C5%82a_14_wprowadzaj%C4%85ca_%28Regulamin-prawybor%C3%B3w---PE%29-.pdf]]
+* [[Załącznik do uchwały 14/12/2013 - Regulamin startu w wyborach do PE w 2014|http://bip.db.org.pl/WZC-dokumenty/04-WZC_uchwa%C5%82a_14_Za%C5%82%C4%85cznik_%28Regulamin-prawybor%C3%B3w---PE%29_ze-zmianami.pdf]]
 
 ### V WZC - 14.06.2014 r.
 
+* [[Uchwała nr 02/06/2014 - wykluczenie dyscyplinarne|http://bip.db.org.pl/WZC-dokumenty/05-WZC_uchwa%C5%82a_02_%28wykluczenie_P.Batury%29.pdf]]
+* [[Uchwała nr 03/06/2014 - wyborcza - powołanie Wiceprzewodniczącego DB|http://bip.db.org.pl/WZC-dokumenty/05-WZC_uchwa%C5%82a_03_%28wyborcza_wiceprzewodnicz%C4%85cy%29.pdf]]
+* [[Uchwała nr 04/06/2014 - wyborcza - powołanie członka KR DB|http://bip.db.org.pl/WZC-dokumenty/05-WZC_uchwa%C5%82a_04_%28wyborcza_KR%29.pdf]]
+* [[Uchwała nr 05/06/2014 - udzielenie absolutorium Zarządowi|http://bip.db.org.pl/WZC-dokumenty/05-WZC_uchwa%C5%82a_05_%28absolutorium%29.pdf]]
+* [[Uchwała nr 06/06/2014 - polityka wizerunkowa DB|http://bip.db.org.pl/WZC-dokumenty/05-WZC_uchwa%C5%82a_06_%28wizerunkowa%29.pdf]]
+* [[Uchwała nr 12/06/2014 - deklaracja członkowska|http://bip.db.org.pl/WZC-dokumenty/05-WZC_uchwa%C5%82a_12_%28deklaracja-cz%C5%82onkowska%29.pdf]]
+* [[Uchwała nr 13/06/2014 - Regulamin startu w wyborach samorządowych w 2014 roku|http://bip.db.org.pl/WZC-dokumenty/05-WZC_uchwa%C5%82a_13_%28Regulamin-startu-w-wyborach-samorz%C4%85dowych%29.pdf]]
 
 ### VI WZC - 19.07.2014 r.
 
+* [[Uchwała nr 01/07/2014 - Regulamin owiadczeń - zmiana art. 3 (projekty uchwał)|http://bip.db.org.pl/WZC-dokumenty/06-WZC_uchwa%C5%82a_02-07_%28Regulamin-o%C5%9Bwiadcze%C5%84_art.3%29.pdf]]
+
+Pozostałe uchwały zmian statutowych podejmowane były podczas poprzednich zgromadzeń. Ich ponowne głosowanie wynikało z braku statutowego wymogu kworum podczas poprzednich głosowań oraz narzuceniem wymogu II terminu przez Sąd Okręgowy.
+* [[Uchwała nr 03/12/2013 - statutowa - zmiana art. 24 (zniesienie wymogu kworum)|http://bip.db.org.pl/WZC-dokumenty/06-WZC_uchwa%C5%82a_03-12_%28art.24_zniesienie-wymogu-kworum%29.pdf]]
+* [[Uchwała nr 05/12/2013 - statutowa - zmiana art. 15 (dyscyplinarne zawieszenie członkostwa)|http://bip.db.org.pl/WZC-dokumenty/06-WZC_uchwa%C5%82a_05-12_%28art.15_dyscyplinarne-zawieszenie%29.pdf]]
+* [[Uchwała nr 06/12/2013 - statutowa - zmiana art. 12 (3-miesięczne składki)|http://bip.db.org.pl/WZC-dokumenty/06-WZC_uchwa%C5%82a_06-12_%28art.12_3-miesi%C4%99czna-sk%C5%82adka%29.pdf]]
+* [[Uchwała nr 07/12/2013 - statutowa - zmiana art. 16 (wykreślenie za brak składek)|http://bip.db.org.pl/WZC-dokumenty/06-WZC_uchwa%C5%82a_07-12_%28art.16_wykre%C5%9Blenie-brak-sk%C5%82adek%29.pdf]]
+* [[Uchwała nr 09/12/2013 - statutowa - zmiana art. 57 (składki i darowizny - zasady)|http://bip.db.org.pl/WZC-dokumenty/06-WZC_uchwa%C5%82a_09-12_%28art.57_sk%C5%82adki-darowizny-zasady%29.pdf]]
+* [[Uchwała nr 08/06/2014 - statutowa - zmiana art. 1 (skrót partii)|http://bip.db.org.pl/WZC-dokumenty/06-WZC_uchwa%C5%82a_08-06_%28art.7_skr%C3%B3t-partii%29.pdf]]
+* [[Uchwała nr 09/06/2014 - statutowa - zmiana art. 3 (tryb podejmowania decyzji)|http://bip.db.org.pl/WZC-dokumenty/06-WZC_uchwa%C5%82a_09-06_%28art.3_tryb-podejmowania-decyzji%29.pdf]]
+* [[Uchwała nr 10/06/2014 - statutowa - zmiana art. 31 (zasady reprezentacji)|http://bip.db.org.pl/WZC-dokumenty/06-WZC_uchwa%C5%82a_10-06_%28art.31_zasady-reprezentacji%29.pdf]]
+* [[Uchwała nr 11/06/2014 - statutowa - zmiana art. 37 (kompetencje sekretarza)|http://bip.db.org.pl/WZC-dokumenty/06-WZC_uchwa%C5%82a_11-06_%28art.37_kompetencje-sekretarza%29.pdf]]
 
 ### VII WZC - 13.12.2014 r.
 
@@ -48,4 +79,6 @@
 * [[Uchwała nr 11/12/2014 - statutowa - zmiana art. 31 i 37 (zasady reprezentacji)|http://bip.db.org.pl/WZC-dokumenty/07-WZC%282%29_Uchwa%C5%82a-11_art-31-37-statutu_zasady-reprezentacji-.pdf]]
 * [[Uchwała nr 13/12/2014 - powołanie ZZ ds. Przedsiębiorców i Gospodarki|http://bip.db.org.pl/WZC-dokumenty/07-WZC%281%29_Uchwa%C5%82a-13_powo%C5%82anie_ZZdsPiG.pdf]]
 * [[Uchwała nr 15/12/2014 - programowa - zmiany w rozdziale I Turkusowej (R)ewolucji|http://bip.db.org.pl/WZC-dokumenty/07-WZC%281%29_Uchwa%C5%82a-15_zmiana_rozdzia%C5%82-1_T%28R%29_programDB.pdf]]
+
+### VII WZC - 03.01.2015 r. - 2 termin głosowań
 
