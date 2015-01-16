@@ -61,5 +61,6 @@ II kadencja Zarządu rozpoczęła się 06.04.2013 r. i trwa do 05.04.2015 r.
 
 * [[Nr 01/01/2015 z 05.01.2015 r. - Zjazd wyborczy WZC|http://bip.db.org.pl/Zarzad-DB-uchwaly/uchwa%C5%82a01-01-2015_WZC_zjazd-wyborczy.pdf]]
 * [[Postanowienie Przewodniczącego DB o Zjeździe Wyborczym|http://bip.db.org.pl/Zarzad-DB-uchwaly/Postanowienie_o_zje%C5%BAdzie_wyborczym.pdf]]
+* [[Nr 02/01/2015 z 16.01.2015 r. - Regulamin pracy Zarządu|http://bip.db.org.pl/Zarzad-DB-uchwaly/uchwa%C5%82aNr20150102_Regulamin_prac_zarz%C4%85du.pdf]]
  
  
