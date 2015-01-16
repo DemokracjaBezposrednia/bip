@@ -15,5 +15,5 @@ Główny serwis Demokracji Bezpośredniej znajduje się pod adresem http://db.or
 * [[Koordynatorzy lokalni|http://db.org.pl/okregi/]]
 * [[WZC - dokumenty|WZC-dokumenty]]
 * [[Zarząd DB - uchwały|Zarzad DB-uchwaly]]
-* [[Pliki do pobrania - wzory dokumentów|Pliki-dokumenty]]
+* [[Pliki do pobrania - wzory dokumentów]]
 * Wybory 2015: [[Budżet|Wybory-2015-Budżet.xls]], [[Kalendarz|Wybory-2015-Kalendarz.xls]]
