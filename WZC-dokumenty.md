@@ -7,6 +7,21 @@
 
 ### III WZC - 13.07.2013 r.
 
+* [[Uchwała nr 01/07/2013 - wyborcza - powołanie Wiceprzewodniczącego DB|http://bip.db.org.pl/WZC-dokumenty/03-WZC_uchwa%C5%82a_01_%28wiceprzewodnicz%C4%85cy%29-.pdf]]
+* [[Uchwała nr 02/07/2013 - wyborcza - powołanie Skarnika DB|http://bip.db.org.pl/WZC-dokumenty/03-WZC_uchwa%C5%82a_02_%28skarbnik%29-.pdf]]
+* [[Uchwała nr 03/07/2013 - wyborcza - powołanie członków Zarządu DB|http://bip.db.org.pl/WZC-dokumenty/03-WZC_uchwa%C5%82a_03_%28cz%C5%82onkowie-zarz%C4%85du%29-.pdf]]
+* [[Uchwała nr 04/07/2013 - wyborcza - członka KR DB|http://bip.db.org.pl/WZC-dokumenty/03-WZC_uchwa%C5%82a_04_%28KR%29-.pdf]]
+* [[Uchwała nr 06/07/2013 - konwalidacja Statutu|http://bip.db.org.pl/WZC-dokumenty/03-WZC_uchwa%C5%82a_06_%28konwalidacja-statutu_bez-art.6%29-.pdf]]
+* [[Uchwała nr 07/07/2013 - waluta lokalna w Polsce|http://bip.db.org.pl/WZC-dokumenty/03-WZC_uchwa%C5%82a_07_%28waluta_lokalna%29-.pdf]]
+* [[Uchwała nr 09/07/2013 - zawiadamianie drogą elektroniczną|http://bip.db.org.pl/WZC-dokumenty/03-WZC_uchwa%C5%82a_09_%28zawiadamianie_drog%C4%85_elektroniczn%C4%85%29-.pdf]]
+* [[Uchwała nr 11/07/2013 - powszechne prawybory|http://bip.db.org.pl/WZC-dokumenty/03-WZC_uchwa%C5%82a_11_%28powszechne_prawybory%29-.pdf]]
+* [[Uchwała nr 14/07/2013 - jawność rejestrów|http://bip.db.org.pl/WZC-dokumenty/03-WZC_uchwa%C5%82a_14_%28jawno%C5%9B%C4%87_rejestr%C3%B3w%29-.pdf]]
+* [[Uchwała nr 15/07/2013 - jawność posiedzeń zespołów zadaniowych|http://bip.db.org.pl/WZC-dokumenty/03-WZC_uchwa%C5%82a_15_%28jawno%C5%9B%C4%87_posiedze%C5%84_ZZ%29-.pdf]]
+* [[Uchwała nr 16/07/2013 - uchwalenie Regulaminu oświadczeń|http://bip.db.org.pl/WZC-dokumenty/03-WZC_uchwa%C5%82a_16_%28Regulamin_o%C5%9Bwiadcze%C5%84%29-.pdf]]
+* [[Załącznik do uchwały nr 16/07/2013 - Regulamin oświadczeń|http://bip.db.org.pl/WZC-dokumenty/03-WZC_uchwa%C5%82a_16_za%C5%82%C4%85cznik_REGULAMIN-O%C5%9AWIADCZE%C5%83-%2813.07.2013-tekst_jednolity%29-.pdf]]
+* [[Uchwała nr 17/07/2013 - przyjęcie Planu strategicznego na lata 2013-2015|http://bip.db.org.pl/WZC-dokumenty/03-WZC_uchwa%C5%82a_17_%28Plan_strategiczny%29-.pdf]]
+* [[Załącznik do uchwały nr 17/07/2013 - Plan strategiczny na lata 2013-2015|http://bip.db.org.pl/WZC-dokumenty/03-WZC_uchwa%C5%82a_17_za%C5%82%C4%85cznik_PLAN_STRATEGICZNY_2014-2015.pdf]]
+* [[Uchwała nr 18/07/2013 - cesja tytułu prasowego "DBeściak"|http://bip.db.org.pl/WZC-dokumenty/03-WZC_uchwa%C5%82a_18_%28cesja_DBe%C5%9Bciaka%29-.pdf]]
 
 ### IV WZC - 14.12.2013 r.
 
