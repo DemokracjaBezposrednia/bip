@@ -1,4 +1,4 @@
-Uchwały Zarządu Demokracji Bezpośredniej 
+Rejestr uchwał Zarządu Demokracji Bezpośredniej 
 
 #### II kadencja Zarządu DB
 
