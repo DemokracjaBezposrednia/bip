@@ -48,7 +48,7 @@ II kadencja Zarządu rozpoczęła się 06.04.2013 r. i trwa do 05.04.2015 r.
 * [[Nr 04/11/2014 z 24.11.2014 r. - członkowska - przyjęcia|http://bip.db.org.pl/Zarzad-DB-uchwaly/uchwa%C5%82a04-11-2014_przyj%C4%99cia-cz%C5%82onk%C3%B3w.pdf]]
 * [[Nr 05/11/2014 z 24.11.2014 r. - członkowska - wykreślenia|http://bip.db.org.pl/Zarzad-DB-uchwaly/uchwa%C5%82a05-11-2014_cz%C5%82onkowska-wykre%C5%9Blenia.pdf]]
 * [[Nr 06/11/2014 z 26.11.2014 r. - powołanie ZZdsGiP - skierowanie do WZC|http://bip.db.org.pl/Zarzad-DB-uchwaly/uchwa%C5%82a06-11-2014_powo%C5%82anie_ZZdPiG_skierowanie-do-WZC.pdf]]
-* [[Załącznik do uchwały nr 06/11/2014 - powołanie ZZdsGiP - |]]
+* [[Załącznik do uchwały nr 06/11/2014 - powołanie ZZdsGiP - |http://bip.db.org.pl/WZC-dokumenty/07-WZC%281%29_Uchwa%C5%82a-13_powo%C5%82anie_ZZdsPiG.pdf]]
 * [[Nr 07/11/2014 z 26.11.2014 r. - wykluczenie - skierowanie do WZC|http://bip.db.org.pl/Zarzad-DB-uchwaly/uchwa%C5%82a07-11-2014_wykluczenie_skierowanie-do-WZC.pdf]]
 * [[Załącznik do uchwały nr 07/11/2014 - uzasadnienie|http://bip.db.org.pl/Zarzad-DB-uchwaly/uchwa%C5%82a07-11-2014_uzasadnienie_do_wykluczeniaKSz.pdf]]
 * [[Nr 01/12/2014 z 06.12.2014 r. - projekty uchwał do WZC|http://bip.db.org.pl/Zarzad-DB-uchwaly/uchwa%C5%82a01-12-2014_do-WZC_projekty-uchwa%C5%82.pdf]]
