@@ -1,0 +1,1 @@
+Sprawozdania o źródłach pozyskania środków finansowych przez Demokrację Bezpośrednią
