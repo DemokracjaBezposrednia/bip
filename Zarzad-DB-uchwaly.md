@@ -64,5 +64,6 @@ II kadencja Zarządu rozpoczęła się 06.04.2013 r. i trwa do 05.04.2015 r.
 * [[Nr 02/01/2015 z 16.01.2015 r. - Regulamin pracy Zarządu|http://bip.db.org.pl/Zarzad-DB-uchwaly/uchwa%C5%82aNr20150102_Regulamin_prac_zarz%C4%85du.pdf]]
 * [[Nr 03/01/2015 z 17.01.2015 r. - członkowska - wykreślenia|http://bip.db.org.pl/Zarzad-DB-uchwaly/uchwa%C5%82aNr20150103_cz%C5%82onkowska-wykre%C5%9Blenia.pdf]]
 * [[Nr 04/01/2015 z 19.01.2015 r. - członkowska - przyjęcia|http://bip.db.org.pl/Zarzad-DB-uchwaly/uchwa%C5%82aNr20150104_cz%C5%82onkowska-przyj%C4%99cia.pdf]]
+* [[Nr 01/02/2015 z 08.02.2015 r. - członkowska - przyjęcia|http://bip.db.org.pl/Zarzad-DB-uchwaly/uchwa%C5%82aNr20150201_cz%C5%82onkowska-przyj%C4%99cia.pdf]]
 
 
