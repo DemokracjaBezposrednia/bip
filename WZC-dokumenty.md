@@ -82,3 +82,6 @@ Pozostałe uchwały zmian statutowych podejmowane były podczas poprzednich zgro
 
 ### VII WZC - 03.01.2015 r. - 2 termin głosowań
 
+### VIII WZC - 28.02.2015 r. - Zjazd Wyborczy
+
+* [[Proponowany porządek obrad Zjazdu Wyborczego WZC|http://bip.db.org.pl/WZC-dokumenty/07-WZC%281%29_Uchwa%C5%82a-15_zmiana_rozdzia%C5%82-1_T%28R%29_programDB.pdf]]
