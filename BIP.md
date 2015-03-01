@@ -18,4 +18,5 @@ Główny serwis Demokracji Bezpośredniej znajduje się pod adresem http://db.or
 * [[Sprawozdania finansowe]]
 * [[Rejestr członków DB|https://docs.google.com/spreadsheets/d/1VGSJ_-lYrYBkP4-sEMD87pb10GFi2TIWHPQZKjmqNn4/edit?usp=sharing]]
 * [[Pliki do pobrania - wzory dokumentów|Pliki-do-pobrania]]
+* [[Identyfikacja wizualna]]
 * Wybory 2015: [[Budżet|Wybory-2015-Budżet.xls]], [[Kalendarz|Wybory-2015-Kalendarz.xls]]
