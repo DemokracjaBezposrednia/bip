@@ -4,3 +4,5 @@ Pantone: 319C
 CMYK: 62, 0, 20, 0  
 
 Czcionka: Open Sans
+
+[[Materiały graficzne|Identyfikacja wizualna/DB-logo.zip]]
