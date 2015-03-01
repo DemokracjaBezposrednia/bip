@@ -9,7 +9,7 @@ Główny serwis Demokracji Bezpośredniej znajduje się pod adresem http://db.or
 * [[Dane adresowe]]
 * [[Statut]]
 * [[Regulamin oświadczeń]]
-* [[Regulamin składek i darowizn]]
+* [[Składki]] członkowskie: [[Regulamin składek i darowizn]]
 * [[Organy krajowe]]
 * [[Program - Turkusowa (R)ewolucja|http://db.org.pl/program/]]
 * [[Koordynatorzy lokalni|http://db.org.pl/okregi/]]
