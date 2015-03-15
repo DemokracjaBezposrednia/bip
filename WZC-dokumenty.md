@@ -85,3 +85,15 @@ Pozostałe uchwały zmian statutowych podejmowane były podczas poprzednich zgro
 ### VIII WZC - 28.02.2015 r. - Zjazd Wyborczy
 
 * [[Proponowany porządek obrad Zjazdu Wyborczego WZC|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Porz%C4%85dek_obrad_20150228.pdf]]
+* [[Zmieniony porządek obrad Zjazdu Wyborczego WZC|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Porz%C4%85dek_obrad_zmiana.pdf]]]
+* [[Uchwała nr 01/02/2015 - udzielenie absolutorium Zarządowi DB|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Uchwa%C5%82a-01_absolutorium.pdf]]
+* [[Uchwała nr 02/02/2015 - wyborcza - powołanie Przewodniczącego DB|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Uchwa%C5%82a-02_wyborcza_Przewodnicz%C4%85cy.pdf]]
+* [[Uchwała nr 03/02/2015 - wyborcza - powołanie Wicerzewodniczących DB|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Uchwa%C5%82a-03_wyborcza_Wiceprzewodnicz%C4%85cy.pdf]]
+* [[Uchwała nr 04/02/2015 - wyborcza - powołanie Skarbnika DB|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Uchwa%C5%82a-04_wyborcza_Skarbnik.pdf]]
+* [[Uchwała nr 05/02/2015 - wyborcza - powołanie Sekretarza DB|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Uchwa%C5%82a-05_wyborcza_Sekretarz.pdf]]
+* [[Uchwała nr 06/02/2015 - wyborcza - powołanie Członków Zwykłych Zarządu DB|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Uchwa%C5%82a-06_wyborcza_cz%C5%82onkowie-zwyczajni.pdf]]
+* [[Uchwała nr 07/02/2015 - wyborcza - Członkowie Komisji Rewizyjnej DB|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Uchwa%C5%82a-07_wyborcza_KR.pdf]]
+* [[Uchwała nr 08/02/2015 - osobowa - odwołanie decyzji Zarządu o wykreśleniu członka DB|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Uchwa%C5%82a-08_osobowa_odwo%C5%82anie-ws-wykre%C5%9Blenia-KonickiW.pdf]]
+* [[Uchwała nr 09/02/2015 - zmiana - Regulamin oświadczeń|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Uchwa%C5%82a-09_Regulamin-o%C5%9Bwiadcze%C5%84_zmiany.pdf]]
+* [[Uchwała nr 10/02/2015 - poparcie kandydata na Prezydenta RP|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Uchwa%C5%82a-10_poparcie-kandydata-prezydentRP.pdf]]
+
