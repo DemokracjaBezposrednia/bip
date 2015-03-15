@@ -85,7 +85,7 @@ Pozostałe uchwały zmian statutowych podejmowane były podczas poprzednich zgro
 ### VIII WZC - 28.02.2015 r. - Zjazd Wyborczy
 
 * [[Proponowany porządek obrad Zjazdu Wyborczego WZC|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Porz%C4%85dek_obrad_20150228.pdf]]
-* [[Zmieniony porządek obrad Zjazdu Wyborczego WZC|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Porz%C4%85dek_obrad_zmiana.pdf]]]
+* [[Zmieniony porządek obrad Zjazdu Wyborczego WZC|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Porz%C4%85dek_obrad_zmiana.pdf]]
 * [[Uchwała nr 01/02/2015 - udzielenie absolutorium Zarządowi DB|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Uchwa%C5%82a-01_absolutorium.pdf]]
 * [[Uchwała nr 02/02/2015 - wyborcza - powołanie Przewodniczącego DB|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Uchwa%C5%82a-02_wyborcza_Przewodnicz%C4%85cy.pdf]]
 * [[Uchwała nr 03/02/2015 - wyborcza - powołanie Wicerzewodniczących DB|http://bip.db.org.pl/WZC-dokumenty/08-WZC_Uchwa%C5%82a-03_wyborcza_Wiceprzewodnicz%C4%85cy.pdf]]
