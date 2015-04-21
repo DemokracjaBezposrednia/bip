@@ -3,14 +3,14 @@
 * Wiceprzewodniczący - Dominik Hernik, dominik.hernik@db.org.pl, +48 600 728 285
 * Wiceprzewodnicząca - Agnieszka Pabich-Tanajno, agnieszka.pabich-tanajno@db.org.pl
 * Sekretarz - Beata Dziudzik, beata.dziudzik@db.org.pl, +48 508 204 435
-* Skarbnik - Artur Lorek, artur.lorek@db.org.pl, +48 600 728 242
-* Członek Zarządu - Krzysztof Naleźniak, krzysztof.nalezniak@db.org.pl, +48 503 069 222
+* Skarbnik - Janusz Lewandowski, skarbnik@db.org.pl, +48 664 033 810
+* Członek Zarządu - Artur Lorek, artur.lorek@db.org.pl, +48 600 728 242
 * Członek Zarządu - Dorota Radziszewska, dorota.radziszewska@db.org.pl
 
 ## Komisja Rewizyjna
-* Janusz Banach
-* Janusz Lewandowski
-* Piotr Kobus
+* Andrzej Gorayski
+* Filip Rembiałkowski
+* Monika Włodarczyk
 
 ## Zespoły zadaniowe
 * [[Zespół wyborczy]]
