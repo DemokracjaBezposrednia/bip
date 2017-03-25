@@ -1,7 +1,9 @@
 ## Zarząd Krajowy
-* Przewodniczący - Adam Kotucha, adam.kotucha@db.org.pl, +48 600 728 125
-* Skarbnik - Linus Lewandowski, skarbnik@db.org.pl, +48 664 033 810
-* Członek Zarządu - Artur Lorek, artur.lorek@db.org.pl, +48 600 728 242
+* Przewodniczący - Adam Kotucha, adamkotucha@gmail.com, +48 600 728 125
+* Wiceprzewodniczący - Przemysław Hinc
+* Wiceprzewodniczący - Tomasz Moroń
+* Skarbnik - Linus Lewandowski, linus@lew21.net, +48 664 033 810
+* Członek Zarządu - Artur Lorek
 
 ## Komisja Rewizyjna
 Brak.
